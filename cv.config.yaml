@@ -8,7 +8,8 @@
 #   *italics*        italics                 (data values may also contain *italics*)
 # Available on every entry besides its own keys:
 #   {place}  venue, city, region (country too unless listed in formats.place.omit_countries)
-#   {when}   month/day text, e.g. "May 28" or "April–May" (empty for year-only or multi-year dates)
+#   {when}   month and day, e.g. "May 28" or "March 3–5"; empty unless the date includes a day
+#            (a month alone, such as 2017-08, prints nothing)
 
 document:
   title: Craig Fahner – Curriculum Vitae

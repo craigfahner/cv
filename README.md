@@ -158,7 +158,7 @@ Sections print in the order listed. Each one sets a heading, which `types` it pu
 | `*text*` | italics |
 | `\[` `\]` `\{` `\*` | literal characters |
 
-Also available in every template: `{place}` (venue, city, region, and country when not omitted) and `{when}` (month/day text such as "May 28" or "April–May").
+Also available in every template: `{place}` (venue, city, region, and country when not omitted) and `{when}` (month and day, such as "May 28" or "March 3–5"). `{when}` is empty unless the entry's date includes a day, so a date like `"2017-08"` prints nothing beyond the year in the date column.
 
 Example:
 

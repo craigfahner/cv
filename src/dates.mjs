@@ -50,17 +50,22 @@ export function columnLabel(e, mode = 'range', fmt = {}) {
   return `${start.y}${dash}${endStr}`;
 }
 
-// Month/day text for use inside an entry: "May 28", "April–May", "" (year only or multi-year range).
+// Month/day text for use inside an entry: "May 28", "March 3–5", "March 30–April 2".
+// Empty unless the date has a day: a month alone ("2017-08") or a year alone prints nothing,
+// as does a multi-year or ongoing range (the year column already covers those).
 export function whenText(e, fmt = {}) {
   const start = parse(e.date);
   const end = parse(e.end_date);
-  if (!start || !start.m) return '';
+  if (!start || !start.m || !start.d) return '';
   const name = (m) => (fmt.months === 'short' ? MONTHS[m - 1].slice(0, 3) : MONTHS[m - 1]);
+  const first = `${name(start.m)} ${start.d}`;
   if (end) {
     if (end.present || end.y !== start.y) return '';
-    if (end.m && end.m !== start.m) return `${name(start.m)}–${name(end.m)}`;
+    if (end.m && end.d && (end.m !== start.m || end.d !== start.d)) {
+      return end.m === start.m ? `${first}–${end.d}` : `${first}–${name(end.m)} ${end.d}`;
+    }
   }
-  return start.d ? `${name(start.m)} ${start.d}` : name(start.m);
+  return first;
 }
 
 // "M/D/YY" style formatter for the "updated" stamp.

@@ -11,6 +11,3 @@ dist/
 # Logs and local environment
 npm-debug.log*
 .env
-
-# Reference material that isn't part of this project (someone else's CV)
-seaver-CV.pdf

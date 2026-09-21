@@ -189,65 +189,11 @@
     ]
   },
   {
-    "id": "appointment-2013-09-university-of-calgary",
-    "type": "appointment",
-    "hidden": false,
-    "date": "2013-09",
-    "end_date": "2020-08",
-    "title": "Sessional Instructor",
-    "institution": "University of Calgary",
-    "city": "Calgary",
-    "region": "AB",
-    "country": "Canada",
-    "courses_taught": [
-      {
-        "code": "Art 311",
-        "title": "Survey of New Media Art"
-      }
-    ]
-  },
-  {
-    "id": "appointment-2015-01-university-of-calgary",
-    "type": "appointment",
-    "hidden": false,
-    "date": "2015-01",
-    "end_date": "2015-04",
-    "title": "Sessional Instructor",
-    "institution": "University of Calgary",
-    "city": "Calgary",
-    "region": "AB",
-    "country": "Canada",
-    "courses_taught": [
-      {
-        "code": "Art 317",
-        "title": "Electronics for Artists"
-      }
-    ]
-  },
-  {
-    "id": "appointment-2011-07-university-of-calgary",
-    "type": "appointment",
-    "hidden": false,
-    "date": "2011-07",
-    "end_date": "2011-08",
-    "title": "Sessional Instructor",
-    "institution": "University of Calgary",
-    "city": "Calgary",
-    "region": "AB",
-    "country": "Canada",
-    "courses_taught": [
-      {
-        "code": "Art 315",
-        "title": "Programming for Artists"
-      }
-    ]
-  },
-  {
     "id": "appointment-2010-07-university-of-calgary",
     "type": "appointment",
     "hidden": false,
     "date": "2010-07",
-    "end_date": "2010-08",
+    "end_date": "2020-08",
     "title": "Sessional Instructor",
     "institution": "University of Calgary",
     "city": "Calgary",
@@ -257,6 +203,18 @@
       {
         "code": "Art 235.61",
         "title": "Introduction to Photography"
+      },
+      {
+        "code": "Art 311",
+        "title": "Survey of New Media Art"
+      },
+      {
+        "code": "Art 315",
+        "title": "Programming for Artists"
+      },
+      {
+        "code": "Art 317",
+        "title": "Electronics for Artists"
       }
     ]
   },

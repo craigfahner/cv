@@ -44,7 +44,7 @@ python3 -m http.server 8765 --directory dist
 
 ### Requirements
 
-- **Node.js** (developed on v23).
+- **Node.js 21 or newer** (developed on v23; the build uses `Object.groupBy`).
 - **Google Chrome** in `/Applications`, used only for the PDF. If it lives elsewhere:
 
   ```bash
@@ -66,6 +66,21 @@ node src/build.mjs --config cv.short.yaml --pdf
 ```
 
 Add `--pdf` to also produce the PDF; leave it off for the website only.
+
+## Automatic publishing (GitHub Pages)
+
+`.github/workflows/pages.yml` rebuilds the website and PDF and publishes both to GitHub Pages whenever a push to `main` changes something that affects the output: `entries.json`, `profile.json`, `cv.config.yaml`, `src/`, `fonts/`, `package.json`, `package-lock.json`, or the workflow itself. You can also run it by hand from the repository's **Actions** tab (**Run workflow**).
+
+The site is served at `https://<your-username>.github.io/<repo-name>/` and the PDF at `.../cv.pdf`.
+
+**One-time setup:** in the repository, go to **Settings → Pages** and set **Source** to **GitHub Actions**. Until that is set, the deploy step fails.
+
+Notes:
+
+- Everything published is public on the web (the address in the header included). Keep `phone` out of `header.right` unless you want it shown.
+- Pages on a *private* repository needs a paid GitHub plan.
+- The "updated" date uses the New York time zone (`TZ` in the workflow), not the runner's UTC.
+- The runner prints the PDF with the Google Chrome preinstalled on GitHub's Ubuntu images. Pagination can differ very slightly from a local build if the Chrome versions differ.
 
 ## Everyday editing
 

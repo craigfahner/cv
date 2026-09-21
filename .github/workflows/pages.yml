@@ -1,0 +1,62 @@
+name: Build and deploy CV
+
+# Rebuilds the PDF and website and publishes both to GitHub Pages
+# whenever anything that affects the output changes.
+on:
+  push:
+    branches: [main]
+    paths:
+      - entries.json
+      - profile.json
+      - cv.config.yaml
+      - src/**
+      - fonts/**
+      - package.json
+      - package-lock.json
+      - .github/workflows/pages.yml
+  workflow_dispatch: # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only the latest run deploys; a newer push cancels one still in progress.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York # so the "updated" date on the CV is the local date, not UTC
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22 # the build needs Node 21+ (Object.groupBy)
+          cache: npm
+
+      - run: npm ci
+
+      - name: Check Chrome (used to print the PDF)
+        run: google-chrome --version
+
+      - name: Build website and PDF
+        run: npm run pdf
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,127 @@
+# CV configuration: what appears, in what order, and how each line is formatted.
+# Data lives in entries.json (set "hidden": true on an entry to leave it out) and profile.json.
+#
+# Template syntax for citation lines:
+#   {field}          insert a value          {field|list}   "A, B, and C"
+#   {title|link}     link the value if the entry has a url (or a doi); plain text otherwise
+#   [ ... ]          optional group, dropped if any {field} inside it is empty
+#   *italics*        italics                 (data values may also contain *italics*)
+# Available on every entry besides its own keys:
+#   {place}  venue, city, region (country too unless listed in formats.place.omit_countries)
+#   {when}   month/day text, e.g. "May 28" or "April–May" (empty for year-only or multi-year dates)
+
+document:
+  title: Craig Fahner – Curriculum Vitae
+  subtitle: Curriculum Vitae
+  updated: { show: true, format: "M/D/YY" }
+
+output:
+  dir: dist
+  html: index.html      # the website; also what the PDF is printed from
+  pdf: cv.pdf
+
+# Layout tokens (defaults are proportioned after the reference CV)
+style:
+  font_size: 12pt
+  line_height: 16pt
+  date_column: 60pt     # width of the year column
+  main_column: 205pt    # width of the middle column in three-column entries
+  entry_gap: 4pt
+  page_margin: 1in
+
+header:
+  left: current_appointment     # title, unit, university — taken from the appointment with end_date "present"
+  right: [address, email, website]   # any of: address, email, phone, website
+
+formats:
+  date:
+    range: abbreviated          # 2016–24  (use "full" for 2016–2024)
+    months: long                # "long" = October, "short" = Oct
+  place:
+    parts: [venue, city, region, country]
+    omit_countries: [Canada, United States]
+
+sections:
+  - heading: Education
+    types: [education]
+    layout: three-column
+    date_column: end            # completion year only ("range" shows 2018–23)
+    sort: end desc
+    columns:
+      main: "{degree}, {area}"
+      side: "{institution}"
+      note: "{highlights|list}"
+
+  - heading: Academic Appointments
+    types: [appointment]
+    layout: three-column
+    sort: date desc
+    columns:
+      main: "{title}"
+      side: "{institution}"
+
+  - heading: Teaching Experience
+    types: [appointment]        # courses come from each appointment's courses_taught
+    expand: courses_taught
+    layout: grouped-list
+    group_by: institution
+    sort: date desc
+    template: "{code}: {title}"
+
+  - heading: Exhibitions
+    types: [exhibition]
+    layout: citation
+    sort: date desc
+    template: "*{title|link}*[, {created}]. {medium}[, with {collaborators|list}]. [{event}[, curated by {curators|list}]. ]{place}. [{when}.]"
+
+  - heading: Grants, Awards and Scholarships
+    types: [grant]
+    layout: citation
+    template: "{title|link}, {funder}."
+
+  - heading: Peer-Reviewed Publications
+    types: [publication]
+    layout: citation
+    template: "{authors|list}. {title|link}. {source}."
+
+  - heading: Open Source Software Development
+    types: [software]
+    layout: citation
+    template: "{authors|list}. *{title|link}*[ (Version {version})] \\[{language}\\]."
+
+  - heading: Conference Presentations
+    types: [presentation]
+    layout: citation
+    template: "{title|link}. [{role}. ]{place}[ ({note})]. [{when}.]"
+
+  - heading: Selected Residencies and Research Fellowships
+    types: [residency]
+    layout: citation
+    template: "{title|link}. {place}."
+
+  - heading: Selected Invited Speaking Engagements and Workshops
+    types: [talk]
+    layout: citation
+    template: "{title|link}. {place}. [{when}.]"
+
+  - heading: Selected Juries, Research and Service Activities
+    types: [service]
+    layout: citation
+    template: "{title|link}. {place}. [{when}.]"
+
+  - heading: Internal Service
+    types: [internal_service]
+    layout: citation
+    template: "{role}, {title|link}, {institution}."
+
+  - heading: Selected Reviews, Publicity and Scholarly Mentions
+    types: [review]
+    layout: citation
+    template: "{title|link}. {source}[, {when}]."
+
+  - heading: Skills and Expertise
+    types: [skill]
+    layout: definition
+    sort: label asc
+    term: "{label}"
+    text: "{details}"

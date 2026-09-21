@@ -1,0 +1,979 @@
+# RenderCV input generated from Craig Fahner's CV_2026.docx
+# Field names follow the commonly documented RenderCV schema (rendercv.com).
+# Verify field names against the installed RenderCV version -- schemas have changed across releases.
+cv:
+  name: Craig Fahner
+  email: craig.fahner@gmail.com
+  phone: +1-403-869-2612
+  website: https://www.craigfahner.com
+  sections:
+    education:
+    - institution: Toronto Metropolitan University & York University
+      location: Toronto, ON
+      area: Communication and Culture
+      degree: PHD
+      start_date: '2018'
+      end_date: '2023'
+    - institution: Carnegie Mellon University
+      location: Pittsburgh, PA
+      area: Art
+      degree: MFA
+      start_date: '2010'
+      end_date: '2013'
+    - institution: Concordia University
+      location: Montreal, QC
+      area: Intermedia/Cyberarts
+      degree: BFA
+      start_date: '2008'
+      end_date: '2010'
+    - institution: University of Calgary
+      location: Calgary, AB
+      area: Photography
+      degree: BFA
+      start_date: '2005'
+      end_date: '2008'
+      highlights:
+      - Towards BFA
+    academic_appointments:
+    - company: Pratt Institute, School of Information
+      location: New York, NY
+      position: Assistant Professor
+      start_date: 2026-08
+      end_date: present
+    - company: New York University, Tandon School of Engineering
+      location: New York, NY
+      position: Visiting Assistant Professor of Integrated Design & Media
+      start_date: 2023-09
+      end_date: 2026-08
+    - company: York University
+      location: Toronto, ON
+      position: Sessional Instructor
+      start_date: 2019-09
+      end_date: 2022-12
+      highlights:
+      - 'COMS 3202: A Hitchhiker''s Guide to Cyberculture'
+    - company: Toronto Metropolitan University
+      location: Toronto, ON
+      position: Sessional Instructor
+      start_date: 2019-01
+      end_date: 2020-05
+      highlights:
+      - 'RTA 221: Experiential Media and Interdisciplinary Practice'
+    - company: Alberta University of the Arts
+      location: Calgary, AB
+      position: Sessional Faculty, Media Arts Program
+      start_date: 2013-09
+      end_date: 2018-04
+      highlights:
+      - 'MADT 101: Exploring Media Culture'
+      - 'MADT 202: Practices in Time-Based Art'
+      - 'MADT 204: Interactive Object I'
+      - 'MADT 307: Computational Art'
+      - 'MADT 315: A/V for Performance and Installation'
+      - 'MADT 304: Interactive Object II'
+    - company: University of Calgary
+      location: Calgary, AB
+      position: 'Sessional Instructor: ART 311, Survey of New Media'
+      start_date: 2013-09
+      end_date: 2020-08
+    - company: University of Calgary
+      location: Calgary, AB
+      position: 'Sessional Instructor: ART 317, Electronics for Artists'
+      start_date: 2015-01
+      end_date: 2015-04
+    - company: University of Calgary
+      location: Calgary, AB
+      position: 'Sessional Instructor: ART 315, Programming for Artists'
+      start_date: 2011-07
+      end_date: 2011-08
+    - company: University of Calgary
+      location: Calgary, AB
+      position: 'Sessional Instructor: ART 235, Intro to Photography'
+      start_date: 2010-07
+      end_date: 2010-08
+    teaching_experience:
+    - name: 'INFO 601: Foundations of Information'
+      location: Pratt Institute, School of Information
+      start_date: '2026'
+      end_date: '2026'
+      summary: 'Graduate seminar. Enrolment: 18 students. Contact hours: 3 hours/week. Years taught: Fall
+        2026.'
+      highlights:
+      - This foundational course focuses on the intersection of people, information, and technology and
+        the theoretical and conceptual foundations of the information field. Students are introduced to
+        ideas and ethical and inclusive principles that inform future specializations in their course
+        of study and provide concrete strategies for ongoing professional growth and development in their
+        area of interest. Through analysis of professional and scholarly discourse, students practice
+        expressing their points of view on issues vital to the field.
+    - name: 'INFO 664: Programming for Cultural Heritage'
+      location: Pratt Institute, School of Information
+      start_date: '2026'
+      end_date: '2026'
+      summary: 'Graduate seminar. Enrolment: 18 students. Contact hours: 3 hours/week. Years taught: Fall
+        2026.'
+      highlights:
+      - This course examines the emerging field of linked open data and its application in the world of
+        digital and/or physical libraries and museums. The overall objective is to ideate and then create
+        a linked open data project, requiring reading and research on existing projects and standards
+        as well as the acquisition of software and programming skills (Python) needed to make the project
+        work. This course is not a general introduction to programming or computer science, but serves
+        as an excellent starting point for further study.
+    - name: 'DM-GY 6063 A: Creative Coding'
+      location: New York University, Tandon School of Engineering
+      start_date: '2025'
+      end_date: '2025'
+      summary: 'Graduate studio. Enrolment: 18 students. Contact hours: 3 hours/week. Years taught: Fall
+        2025.'
+      highlights:
+      - A graduate-level programming course that emphasizes the creative possibilities of code. Unlike
+        a typical software engineering course, this is a hands-on studio that challenges students to go
+        beyond linear thinking around algorithms, examining and discussing code-based art and design and
+        writing and iterating code-based projects through creative experimentation. By the end of the
+        course, students are empowered to interpret and create code-based artworks including interactive
+        installations, gestural interfaces, generative visualizations, experimental games, A/V experiences,
+        and more.
+    - name: 'DM-GY 921X C: Independent Study in Design & Media: Speculative Networks'
+      location: New York University, Tandon School of Engineering
+      start_date: '2025'
+      end_date: '2025'
+      summary: 'Graduate seminar/studio (independent study). Enrolment: 3 students. Contact hours: 3 hours/week.
+        Years taught: Fall 2025.'
+      highlights:
+      - This independent study focuses on the ethical, political and socio-cultural dimensions of digital
+        platforms and social media. Readings explore the implications of digital design practices, and
+        creative assignments provide a means to creatively reimagine digital platforms through speculative
+        design methods. Through a combination of seminar discussions, workshops and digital design projects,
+        students critically examine and remediate social media and other digital platforms.
+    - name: 'DM-GY 9103 G: Special Topics in Digital Media – Affective Interfaces'
+      location: New York University, Tandon School of Engineering
+      start_date: '2024'
+      end_date: '2025'
+      summary: 'Graduate seminar/studio. Enrolment: 18 students. Contact hours: 3 hours/week. Years taught:
+        Spring 2024, Spring 2025.'
+      highlights:
+      - Students experiment with interfaces that engage with human emotions. Leveraging techniques in
+        machine learning, physical computing, haptic media, bio-sensing, sound, gestural interfaces and
+        facial recognition, students create experimental emotionally aware technologies, challenging the
+        ways that emotion and affect are construed and captured by dominant platforms. This is a project-based
+        course in which students explore novel modes of expression collaboratively and through individual
+        projects.
+    - name: 'DM-UY 4913-B: Data Visceralization'
+      location: New York University, Tandon School of Engineering
+      start_date: '2024'
+      end_date: '2025'
+      summary: 'Undergraduate studio. Enrolment: 18 students. Contact hours: 3 hours/week. Years taught:
+        Spring 2024, Spring 2025.'
+      highlights:
+      - A hands-on, project-based studio course that pushes beyond typical notions of data visualization,
+        examining ways that data can be transformed into embodied experiences. Students engage with techniques
+        in physical computing, haptic technologies and VR toward the creation of a series of unconventional
+        data visualizations, each interpreting dynamic data sets to convey complex phenomena such as climate
+        change through tactile and embodied forms of representation.
+    - name: 'DM-UY 1133-D: Creative Coding'
+      location: New York University, Tandon School of Engineering
+      start_date: '2023'
+      end_date: '2024'
+      summary: 'Studio. Enrolment: 18 students. Contact hours: 4 hours/week. Years taught: Fall 2023,
+        Fall 2024.'
+      highlights:
+      - An introductory programming course that emphasizes the creative possibilities of code. Unlike
+        a typical software engineering course, this is a hands-on studio that challenges students to go
+        beyond linear thinking around algorithms, examining and discussing code-based art and design and
+        writing and iterating code-based projects through creative experimentation. By the end of the
+        course, students are empowered to interpret and create code-based artworks including interactive
+        installations, gestural interfaces, generative visualizations, experimental games, A/V experiences,
+        and more.
+    - name: 'DM-GY 9103 G: Special Topics in Digital Media – Speculative Networks'
+      location: New York University, Tandon School of Engineering
+      start_date: '2023'
+      end_date: '2024'
+      summary: 'Graduate seminar/studio. Enrolment: 18 students. Contact hours: 3 hours/week. Years taught:
+        Fall 2023, Fall 2024.'
+      highlights:
+      - This course focuses on the ethical, political and socio-cultural dimensions of digital platforms
+        and social media. Readings explore the implications of digital design practices, and creative
+        assignments provide a means to creatively reimagine digital platforms through speculative design
+        methods. Through a combination of seminar discussions, in-class workshops and digital design projects,
+        students critically examine and remediate social media and other digital platforms.
+    - name: 'COMS 3202: Digital Discourse and Design'
+      location: York University
+      start_date: '2019'
+      end_date: '2022'
+      summary: 'Seminar. Enrolment: 20 students. Contact hours: 3 hours/week. Years taught: Fall 2019,
+        Fall 2020, Fall 2021, Fall 2022.'
+      highlights:
+      - A seminar focusing on the ethical, political and socio-cultural dimensions of digital communications
+        technologies. Through a combination of seminar discussions, analytical writing exercises and creative
+        design projects, students critically examine and intervene upon digital communication systems.
+    - name: 'RTA 221: Experiential Media and Interdisciplinary Practice'
+      location: Toronto Metropolitan University
+      start_date: '2019'
+      end_date: '2020'
+      summary: 'Lecture. Enrolment: 80 students (2019), 90 students (2020). Contact hours: 3 hours/week.
+        Years taught: Winter 2019, Winter 2020.'
+      highlights:
+      - A lecture course focused on the function of media in the context of experience design and contemporary
+        art. Students explore topics such as phenomenology, intersectionality, remediation and political
+        economy in relation to contemporary art practices.
+    - name: 'MADT 315: A/V for Performance and Installation'
+      location: Alberta University of the Arts
+      start_date: '2014'
+      end_date: '2018'
+      summary: 'Studio. Enrolment: 22 students. Contact hours: 6 hours/week (2014-2016), 4.5 hours/week
+        (2016-2018). Years taught: Fall 2014, Winter 2016, Winter 2017, Winter 2018 (4 total).'
+      highlights:
+      - A studio course that introduces students to tools and strategies for integrating audio, video
+        and interactivity into installation and performance works. Students develop installation and performance
+        work through instructor-led workshops in topics such as projection mapping, spatial audio, immersive
+        environments, interactive interfaces, live cinema, audio performance and experimental narrative.
+    - name: 'MADT 307: Computational Art'
+      location: Alberta University of the Arts
+      start_date: '2013'
+      end_date: '2017'
+      summary: 'Studio. Enrolment: 22 students. Contact hours: 6 hours/week (2013-2016), 4.5 hours/week
+        (2016-2017). Years taught: Fall 2013, Fall 2014, Fall 2015, Fall 2016, Fall 2017 (5 total).'
+      highlights:
+      - An introductory course in programming, focused on the development of media artworks. Students
+        work with Processing and Max/MSP to develop sound, video, performance and interactive artworks.
+    - name: 'MADT 304: Interactive Object II'
+      location: Alberta University of the Arts
+      start_date: '2015'
+      end_date: '2017'
+      summary: 'Studio. Enrolment: 22 students. Contact hours: 6 hours/week (2015-2016), 4.5 hours/week
+        (2016-2017). Years taught: Winter 2015, Winter 2016, Winter 2017 (3 total).'
+      highlights:
+      - A course that introduces students to the use of electronics in contemporary art practice. Students
+        investigate emerging technological art practices such as interactive media and physical computing,
+        developing electronic artworks conceptually and technically.
+    - name: 'MADT 204: Interactive Object I'
+      location: Alberta University of the Arts
+      start_date: '2018'
+      end_date: '2018'
+      summary: 'Studio. Enrolment: 22 students. Contact hours: 4.5 hours/week. Years taught: Winter 2018
+        (1 total).'
+      highlights:
+      - An introductory electronics course in which students design and build custom control circuits,
+        develop interactive systems using the Arduino platform, and deploy interactivity in installation
+        projects.
+    - name: 'MADT 202: Digital Studio'
+      location: Alberta University of the Arts
+      start_date: '2014'
+      end_date: '2014'
+      summary: 'Studio. Enrolment: 22 students. Contact hours: 6 hours/week. Years taught: Winter 2014
+        (1 total).'
+      highlights:
+      - An introductory studio-based course emphasizing research and development of media practices through
+        instructor-initiated research and media projects. Emphasis is placed on the development of critical
+        and conceptual skills and an in-depth knowledge of historical and contemporary digital and media
+        practice through instructor-led readings and discussions.
+    - name: 'MADT 101: Exploring Media Culture'
+      location: Alberta University of the Arts
+      start_date: '2015'
+      end_date: '2017'
+      summary: 'Studio. Enrolment: 22 students. Contact hours: 6 hours/week (2015-2016), 4.5 hours/week
+        (2016-2018). Years taught: Fall 2015, Fall 2017 (2 sections) (3 total).'
+      highlights:
+      - An introductory course in which students explore the role of media and digital technologies in
+        contemporary culture and their implications for art making.
+    - name: 'Art 311: Survey of New Media Art'
+      location: University of Calgary
+      start_date: '2013'
+      end_date: '2020'
+      summary: 'Lecture. Enrolment: 60 students (2013-2015), 45 students (2016-2019). Contact hours: 6
+        hours/week (summer session), 3 hours/week (fall session). Years taught: Fall 2013, Summer 2014,
+        Summer 2015, Fall 2015, Summer 2016, Summer 2017, Summer 2018, Summer 2019, Summer 2020 (9 total).'
+      highlights:
+      - An art theory and history lecture, examining significant movements in contemporary art in the
+        20th and 21st centuries in the context of emergent political and technological developments.
+    - name: 'Art 317: Electronics for Artists'
+      location: University of Calgary
+      start_date: '2014'
+      end_date: '2014'
+      summary: 'Studio. Enrolment: 20 students. Contact hours: 5 hours/week. Years taught: Fall 2014 (1
+        total).'
+      highlights:
+      - A course that introduces students to the use of electronics in contemporary art practice. Students
+        investigate emerging technological art practices such as interactive media and physical computing,
+        developing electronic artworks conceptually and technically.
+    - name: 'Art 315: Programming for Artists'
+      location: University of Calgary
+      start_date: '2011'
+      end_date: '2011'
+      summary: 'Studio. Enrolment: 20 students. Contact hours: 6 hours/week. Years taught: Summer 2011
+        (6 weeks) (1 total).'
+      highlights:
+      - An introductory course in programming as an artistic medium. Students work with Max/MSP and Arduino
+        programming environments, exploring methods in interactivity, sound and video.
+    - name: 'Art 235.61: Introduction to Photography'
+      location: University of Calgary
+      start_date: '2010'
+      end_date: '2010'
+      summary: 'Studio. Enrolment: 20 students. Contact hours: 6 hours/week. Years taught: Summer 2010
+        (6 weeks) (1 total).'
+      highlights:
+      - An introductory course in photographic methods, including film photography, developing negatives,
+        darkroom processes, digital manipulation, and printing and presentation of photographs in both
+        digital and paper-based media.
+    exhibitions:
+    - name: Wild Lots
+      date: 2026-10
+      location: Society for the Social Studies of Science, Making & Doing Exhibition, Toronto, ON
+      summary: Interactive data visualization installation (Collaboration with Alissa Kushner). Created
+        2026.
+    - name: Wild Lots
+      date: 2026-04/2026-05
+      location: Department of City Planning, New York, NY
+      summary: Interactive data visualization installation (Collaboration with Alissa Kushner). Created
+        2026.
+    - name: Wild Lots
+      date: 2026-03/2026-04
+      location: Data Through Design (DxD), Brooklyn, NY
+      summary: Interactive data visualization installation (Collaboration with Alissa Kushner). Created
+        2026.
+    - name: Image and Affect
+      date: 2025-05
+      location: Or Gallery, Vancouver, BC
+      summary: 'Generative drawings and interactive software (Collaboration with Ganaele Langlois, Rory
+        Sharp, Anthony Burton, Mel Racho and Matt Canute); Data Fluencies: Tributaries. Created 2025.'
+      url: https://www.dataffect.ca/
+    - name: Image and Affect
+      date: 2025-04
+      location: Boston Cyberarts, Boston, MA
+      summary: 'Generative drawings and interactive software (Collaboration with Ganaele Langlois, Rory
+        Sharp, Anthony Burton, Mel Racho and Matt Canute); Data Fluencies: Rivulets. Created 2025.'
+      url: https://www.dataffect.ca/
+    - name: Deep Dive
+      date: 2025-03
+      location: University of Waterloo, Waterloo, ON
+      summary: Video game (Collaboration with Mat Lindenberg, Peter Nichols and Matthew Waddell); International
+        Conference on Games and Narrative. Created 2025.
+      url: https://craigfahner.com/2022Deep_Dive
+    - name: Enter the Ring
+      date: 2025-10
+      location: North York Public Library, Toronto, ON
+      summary: Interactive installation (Collaboration with Evan Light, Ellouise McGeachie and Quinn MacNeil);
+        Digital Expo. Created 2023.
+      url: https://craigfahner.com/2023Enter_the_Ring
+    - name: Enter the Ring
+      date: 2024-06
+      location: Surveillance Studies Network Conference, Ljubljana, SI
+      summary: Interactive installation (Collaboration with Evan Light, Ellouise McGeachie and Quinn MacNeil).
+        Created 2023.
+      url: https://craigfahner.com/2023Enter_the_Ring
+    - name: Enter the Ring
+      date: 2023-03
+      location: Sensorium, York University, Toronto, ON
+      summary: Interactive installation (Collaboration with Evan Light, Ellouise McGeachie and Quinn MacNeil).
+        Created 2023.
+      url: https://craigfahner.com/2023Enter_the_Ring
+    - name: Enter the Ring
+      date: 2023-05
+      location: Société des Arts Technologiques, Montreal, QC
+      summary: Interactive installation (Collaboration with Evan Light, Ellouise McGeachie and Quinn MacNeil);
+        (de)Stabilizing Diffusions, curated by Maurice Jones. Created 2023.
+      url: https://craigfahner.com/2023Enter_the_Ring
+    - name: Enter the Ring
+      date: 2023-05
+      location: York University, Toronto, ON
+      summary: Interactive installation (Collaboration with Evan Light, Ellouise McGeachie and Quinn MacNeil);
+        Canadian Communication Association Congress 2023. Created 2023.
+      url: https://craigfahner.com/2023Enter_the_Ring
+    - name: Spore Protocol
+      date: 2021-10
+      location: Visual Arts Centre of Clarington, Clarington, ON
+      summary: Web-based artwork (Sole artist); Public Space, curated by Sahar Te. Created 2021.
+    - name: Eigengrau
+      date: 2020-09
+      location: Our Networks Conference, Online
+      summary: Web-based artwork (Sole artist). Created 2020.
+      url: https://www.craigfahner.com/2020Eigengrau
+    - name: Cloud and Dust
+      date: 2019-08
+      location: Bunker2, Toronto, ON
+      summary: Artist publication (Sole artist); Unscheduled Arrivals. Created 2019.
+    - name: Deep Solutions
+      date: 2018-07/2018-08
+      location: WRECK CITY Residency and Exhibition, Calgary, AB
+      summary: VR installation (Collaboration with Matthew Waddell). Created 2018.
+      url: https://www.craigfahner.com/2019Deep_Solutions
+    - name: Deep Solutions
+      date: 2018-10
+      location: Eastern Bloc, Montreal, QC
+      summary: VR installation (Collaboration with Matthew Waddell); 10th Anniversary Exhibition, curated
+        by Eliane Ellbogen. Created 2018.
+      url: https://www.craigfahner.com/2019Deep_Solutions
+    - name: Deep Solutions
+      date: 2019-07/2019-09
+      location: 'Processor: Digital and Analogue Retranslations, Edmonton, AB'
+      summary: VR installation (Collaboration with Matthew Waddell), curated by Lindsey Sharman. Created
+        2018.
+      url: https://www.craigfahner.com/2019Deep_Solutions
+    - name: Cool Water
+      date: 2018-08
+      location: Driveway 327, Los Angeles, CA
+      summary: 3D animated video (Collaboration with Mat Lindenberg); Vortex, curated by Theo Triantafyllidis
+        and Troy Kreiner. Created 2018.
+      url: https://www.craigfahner.com/2018Cool_Water
+    - name: Deep Website
+      date: 2018-02
+      location: Festival Hall, Calgary, AB
+      summary: Audio/video performance (Collaboration with Matthew Waddell); Particle + Wave Media Arts
+        Festival. Created 2017.
+      url: https://www.craigfahner.com/2018Deep_Website
+    - name: Deep Website
+      date: 2018-06
+      location: Studio Bell, Calgary, AB
+      summary: Audio/video performance (Collaboration with Matthew Waddell); Sled Island Music and Arts
+        Festival. Created 2017.
+      url: https://www.craigfahner.com/2018Deep_Website
+    - name: Smokescreen
+      date: 2017-05/2017-09
+      location: Art Gallery of Alberta, Edmonton, AB
+      summary: Interactive installation (Collaboration with Neal Moignard); 2017 Alberta Biennial, curated
+        by Peta Rake and Kristy Trinier. Created 2017.
+      url: https://www.craigfahner.com/2017Smokescreen
+    - name: Pure Water Touching Clear Sky
+      date: 2016-09/2016-10
+      location: Eastern Bloc, Montreal, QC
+      summary: 'Interactive social media installation (Sole artist); 2016 Sight & Sound Festival: Per
+        Capita, curated by Eliane Ellbogen. Created 2016.'
+      url: https://www.craigfahner.com/2016Pure_Water_Touching_Clear_Sky
+    - name: Basic Orbital Manoeuvres
+      date: 2016-01
+      location: W139, Amsterdam, NL
+      summary: Virtual reality installation (Sole artist); Gym of Obsolete Technology, curated by Helena
+        Sanders and Margarita Osipian. Created 2015.
+      url: https://www.craigfahner.com/2015Basic_Orbital_Manoeuvres
+    - name: Basic Orbital Manoeuvres
+      date: 2015-07
+      location: 8-11 Gallery, Toronto, ON
+      summary: Virtual reality installation (Sole artist); The Radiant, curated by Xenia Benivolski. Created
+        2015.
+      url: https://www.craigfahner.com/2015Basic_Orbital_Manoeuvres
+    - name: Particle and Wave
+      date: 2015-02
+      location: Festival Hall, Calgary, AB
+      summary: Series of audio performances (Sole artist); Particle + Wave Media Arts Festival. Created
+        2015.
+      url: https://www.craigfahner.com/2015Particle_and_Wave
+    - name: Turangalila Symphonie
+      date: 2014-11
+      location: Calgary Philharmonic Orchestra, Calgary, AB
+      summary: Live cinema performance (technical and creative director) (Sole artist); Turangalila Symphonie.
+        Created 2014.
+      url: https://www.craigfahner.com/2014Turangalila
+    - name: Coherer
+      date: 2015-09
+      location: Galerija Klovicevi dvori, Zagreb, HR
+      summary: Interactive audio installation (Sole artist); Device Art Triennial 5, curated by Kontejner.
+        Created 2014.
+      url: https://www.craigfahner.com/2014Coherer
+    - name: Borderland
+      date: 2013-03
+      location: Miller Gallery, Pittsburgh, PA
+      summary: Interactive audio installation (Sole artist); Basement Miracle. Created 2013.
+      url: https://www.craigfahner.com/2013Borderland
+    - name: Fusillade
+      date: 2012-10
+      location: Eastern Bloc, Montreal, QC
+      summary: Audio installation (Sole artist); Import/Export (solo exhibition). Created 2012.
+    - name: How to Improve the World (You Will Only Make Things Worse)
+      date: 2016-01
+      location: W139, Amsterdam, NL
+      summary: Video/performance (Collaboration with Steve Gurysh); Gym of Obsolete Technology, curated
+        by Helena Sanders and Margarita Osipian. Created 2011-2012.
+      url: https://www.craigfahner.com/2012How_to_Improve_the_World
+    - name: How to Improve the World (You Will Only Make Things Worse)
+      date: 2015-07
+      location: 8-11 Gallery, Toronto, ON
+      summary: Video/performance (Collaboration with Steve Gurysh); The Radiant, curated by Xenia Benivolski.
+        Created 2011-2012.
+      url: https://www.craigfahner.com/2012How_to_Improve_the_World
+    - name: How to Improve the World (You Will Only Make Things Worse)
+      date: 2015-07
+      location: Museum of Contemporary Canadian Art, Toronto, ON
+      summary: Video/performance (Collaboration with Steve Gurysh); How to Improve the World (screening
+        and performance). Created 2011-2012.
+      url: https://www.craigfahner.com/2012How_to_Improve_the_World
+    - name: How to Improve the World (You Will Only Make Things Worse)
+      date: 2015-01
+      location: Museo de la Ciudad, Queretaro, MX
+      summary: Video/performance (Collaboration with Steve Gurysh); An Earthquake at the Racetracks, curated
+        by Juergen Dehm and Xenia Benivolski. Created 2011-2012.
+      url: https://www.craigfahner.com/2012How_to_Improve_the_World
+    - name: How to Improve the World (You Will Only Make Things Worse)
+      date: 2012-11
+      location: Shot Tower Gallery, Columbus, OH
+      summary: Video/performance (Collaboration with Steve Gurysh); Ignition 5.0. Created 2011-2012.
+      url: https://www.craigfahner.com/2012How_to_Improve_the_World
+    - name: How to Improve the World (You Will Only Make Things Worse)
+      date: 2012-03
+      location: Fe Gallery, Pittsburgh, PA
+      summary: Video/performance (Collaboration with Steve Gurysh); How to Improve the World. Created
+        2011-2012.
+      url: https://www.craigfahner.com/2012How_to_Improve_the_World
+    - name: How to Improve the World (You Will Only Make Things Worse)
+      date: 2011-09
+      location: Societe des Arts Technologiques, Montreal, QC
+      summary: Video/performance (Collaboration with Steve Gurysh); And No One Was Around (Pop Montreal
+        Festival). Created 2011-2012.
+      url: https://www.craigfahner.com/2012How_to_Improve_the_World
+    - name: Alternator
+      date: 2012-10
+      location: Eastern Bloc, Montreal, QC
+      summary: Video installation/performance (Sole artist); Import/Export (solo exhibition). Created
+        2011.
+      url: https://www.craigfahner.com/2011Alternator
+    - name: Organ
+      date: 2013-09
+      location: Intersite Art Festival, Calgary, AB
+      summary: Interactive audio installation (Sole artist); Du Coeur. Created 2011.
+      url: https://www.craigfahner.com/2010Organ
+    - name: Organ
+      date: 2012-10
+      location: Eastern Bloc, Montreal, QC
+      summary: Interactive audio installation (Sole artist); Import/Export (solo exhibition). Created
+        2011.
+      url: https://www.craigfahner.com/2010Organ
+    - name: Whorl
+      date: 2012-11
+      location: TELUS Spark, Calgary, AB
+      summary: Interactive audio installation (Collaboration with Neal Moignard). Created 2010.
+      url: https://www.craigfahner.com/2009Whorl
+    - name: Whorl
+      date: 2012-10
+      location: Eastern Bloc, Montreal, QC
+      summary: Interactive audio installation (Collaboration with Neal Moignard); Import/Export (solo
+        exhibition). Created 2010.
+      url: https://www.craigfahner.com/2009Whorl
+    - name: Whorl
+      date: 2012-09
+      location: New Adventures in Sound Art, Toronto, ON
+      summary: Interactive audio installation (Collaboration with Neal Moignard); Nuit Blanche Festival.
+        Created 2010.
+      url: https://www.craigfahner.com/2009Whorl
+    - name: Whorl
+      date: 2011-02
+      location: Red Bird Studios, Montreal, QC
+      summary: 'Interactive audio installation (Collaboration with Neal Moignard); Nuit Blanche Festival:
+        The Black Hole. Created 2010.'
+      url: https://www.craigfahner.com/2009Whorl
+    - name: garden (stylized with a leading hashtag)
+      date: 2009-10
+      location: TRUCK +15 Window Project, Calgary, AB
+      summary: Interactive networked installation (Sole artist); garden. Created 2009.
+      url: https://www.craigfahner.com/2009--garden
+    - name: Open Field
+      date: 2011-05
+      location: Galerie Sans Nom, Moncton, NB
+      summary: Interactive audio installation (Collaboration with Neal Moignard and Jean-Rene Leblanc);
+        Re:flux Festival. Created 2009.
+      url: https://www.craigfahner.com/2009Open_Field
+    - name: Open Field
+      date: 2011-01
+      location: Buckham Gallery, Flint, MI
+      summary: Interactive audio installation (Collaboration with Neal Moignard and Jean-Rene Leblanc);
+        Retina. Created 2009.
+      url: https://www.craigfahner.com/2009Open_Field
+    - name: Open Field
+      date: 2010-10
+      location: The Atomic Testing Museum, Las Vegas, NV
+      summary: Interactive audio installation (Collaboration with Neal Moignard and Jean-Rene Leblanc);
+        Off the Strip. Created 2009.
+      url: https://www.craigfahner.com/2009Open_Field
+    grants_awards_and_scholarships:
+    - name: Data Fluencies
+      summary: Mellon Foundation
+      start_date: 2022-09
+      end_date: 2025-06
+    - name: Canada Graduate Scholarship - Doctoral
+      summary: SSHRC
+      start_date: 2019-09
+      end_date: 2022-05
+    - name: Dr. Liss Jeffrey Graduate Award
+      summary: Toronto Metropolitan University
+      date: 2020-11
+    - name: Ryerson Graduate Fellowship
+      summary: Toronto Metropolitan University
+      date: 2018-09
+    - name: Faculty Professional Affairs Committee Funding
+      summary: Alberta University of the Arts
+      date: 2018-02
+    - name: Faculty Professional Affairs Committee Funding
+      summary: Alberta University of the Arts
+      date: 2016-10
+    - name: Media Art Production Grant
+      summary: Canada Council for the Arts
+      date: 2016-07
+    - name: Visual Arts and New Media Project Grant
+      summary: Alberta Foundation for the Arts
+      date: 2016-06
+    - name: Travel Grants to Media Arts Professionals
+      summary: Canada Council for the Arts
+      date: 2016-01
+    - name: Artist Opportunity Grant
+      summary: Calgary Arts Development
+      date: 2015-07
+    - name: Visual Arts and New Media Project Grant
+      summary: Alberta Foundation for the Arts
+      date: 2014-12
+    - name: Faculty Professional Affairs Committee Funding
+      summary: Alberta University of the Arts
+      date: 2014-10
+    - name: Media Art Production Grant
+      summary: Canada Council for the Arts
+      date: 2013-08
+    - name: Disney Memorial Pausch Fellowship
+      summary: Carnegie Mellon University, Pittsburgh, PA
+      date: 2010-05
+    peer_reviewed_publications:
+    - title: 'Digital Reset: Critical and Creative Interventions to Rewire Sense-Making'
+      authors:
+      - Ganaele Langlois
+      - Rory Sharp
+      - Craig Fahner
+      - Alexandra Juhasz
+      - Ioana Jucan
+      - Roopa Vasudevan
+      journal: 'Media Theory 10 (1): 125-48'
+      date: '2026'
+      doi: 10.70064/mt.v10i1.1370
+    - title: 'Enter the Ring: Artistic Interventions in Facial Recognition and Domestic Surveillance'
+      authors:
+      - Craig Fahner
+      - Evan Light
+      - Quinn MacNeil
+      journal: 'Surveillance & Society 24 (3): 255-65'
+      date: '2026'
+      doi: 10.24908/ss.v24i3.19156
+    - title: 'Image-Affect: Developing an Anti-Sentiment Analysis Tool'
+      authors:
+      - Craig Fahner
+      - Ganaele Langlois
+      - Rory Sharp
+      journal: Computational Culture (forthcoming)
+      date: '2026'
+    - title: Generative Games as Situated Representations of Algorithmic Power
+      authors:
+      - Craig Fahner
+      journal: International Journal of Games and Narrative 1 (forthcoming)
+      date: '2026'
+    - title: 'Eigengrau: Reimagining Videoconferencing as a ''Slow Platform'''
+      authors:
+      - Craig Fahner
+      journal: 'In "You''re Muted": Performance, Precarity, and the Logic of Zoom, ed. Mark Nunes and
+        Cassandra Ozog, 1st ed. Bloomsbury Publishing Plc'
+      date: '2024'
+      doi: 10.5040/9798765108260
+    - title: '''What Hath We Rung?'': Facing Amazon''s Ring of Surveillance'
+      authors:
+      - Evan Light
+      - Craig Fahner
+      - Ellouise McGeachie
+      - Quinn MacNeil
+      journal: Report prepared for the Office of the Privacy Commissioner of Canada
+      date: '2023'
+      url: https://ring.glendon.yorku.ca/report2.pdf
+    - title: 'Deep Solutions: Artistic Interventions in Platform Capitalism'
+      authors:
+      - Craig Fahner
+      - Matthew Waddell
+      journal: Proceedings of the Seventh Conference on Computation, Communication, Aesthetics & X, Milan,
+        Italy
+      date: '2019'
+      url: https://2019.xcoax.org/pdf/xCoAx2019-Fahner.pdf
+    conference_presentations:
+    - name: 'p5 Plotter Control: A Real-Time Pen Plotter Control Library for p5.js'
+      date: '2026-10-03'
+      location: Processing Community Day, NYU ITP, Brooklyn, NY (hosted by the Processing Foundation)
+      summary: Presentation
+      url: https://www.pcd2026.nyc/#about
+    - name: 'Wild Lots: Reimagining Urban Space through Participatory Installation'
+      date: 2026-10
+      location: Mozilla Festival, Barcelona, ES
+      summary: Presentation
+    - name: 'FRuiT: A Fruit Recognition System'
+      date: 2026-10
+      location: Society for the Social Studies of Science 2026 Conference, Toronto, ON
+      summary: Conference presentation
+    - name: 'Wild Lots: Reimagining Vacant Urban Space through Design Interventions'
+      date: 2026-10
+      location: Society for the Social Studies of Science 2026 Conference, Toronto, ON
+      summary: Conference presentation
+    - name: 'Enterface: Encountering Facial Recognition Surveillance via Interactive Installation'
+      date: 2026-06
+      location: Surveillance Studies Network Conference 2026, Lille, FR
+      summary: Conference presentation
+    - name: Facial Recognition, Tactile Visibility and the Governance of Risk
+      date: 2026-06
+      location: Data Justice Conference 2026, Cardiff, UK
+      summary: Conference presentation
+    - name: 'Enterface: Encountering Facial Recognition Technology'
+      date: 2025-10
+      location: 'Digital Expo: Bridging the AI Divide, North York Public Library, Toronto, ON'
+      summary: Presentation and demo
+    - name: Engineering Bias in Facial Recognition
+      date: 2025-08
+      location: HOPE_16 Conference, St. John's University, Queens, NY
+      summary: Conference presentation
+    - name: 'Enter the Ring: Facing Amazon''s Ring of Surveillance'
+      date: 2025-06
+      location: Union for Democratic Communications 2025 Conference, University of Washington, Tacoma,
+        WA
+      summary: Conference presentation
+    - name: Concevoir les technologies de reconnaissance faciale de maniere alternative du point de vue
+        des communs
+      date: 2025-05
+      location: Les Communs Colloque International, Universite du Quebec a Montreal, Montreal, QC
+      summary: Conference presentation
+    - name: Generative Games as Situated Representations of Algorithmic Power
+      date: 2025-03
+      location: 2025 International Conference on Games and Narrative, University of Waterloo, Waterloo,
+        ON
+      summary: Conference presentation
+    - name: 'Data Fluencies: Sentiment, Affect, and Algorithmic Recommendation'
+      date: 2024-11
+      location: AI for Humanity and Society Conference, Gothenburg, SE
+      summary: Conference presentation
+    - name: 'Enter the Ring: Facing Amazon''s Ring of Surveillance'
+      date: 2024-05
+      location: Surveillance Studies Network Conference, Ljubljana, SI
+      summary: Conference presenter
+    - name: 'Book Panel: "You''re Muted": Performance, Precarity, and the Logic of Zoom'
+      date: 2024-05
+      location: Cultural Studies Association 2024 Conference, Chicago, IL
+      summary: Conference presenter
+    - name: Counter-hegemonic Technocultures
+      date: 2023-11
+      location: Society for the Social Studies of Science 2023 Conference, Honolulu, HI
+      summary: Conference panel chair
+    - name: Image Analysis Workshop
+      date: 2023-10
+      location: Association of Internet Researchers 2023 Conference, Philadelphia, PA
+      summary: Workshop presenter
+    - name: (de)Stabilizing Diffusions
+      date: 2023-05
+      location: Concordia University, Montreal, QC
+      summary: Panelist
+    - name: Annual Meeting
+      date: 2023-03
+      location: International Network of Civil Liberties Organizations, Toronto, ON
+      summary: Conference presenter
+    - name: Reimagining Platforms Symposium
+      date: 2022-10
+      location: University of Edinburgh, UK
+      summary: Conference presenter
+    - name: Future Bodies Symposium
+      date: 2022-09
+      location: New Media Caucus, Virginia Tech
+      summary: Conference presenter
+    - name: 'Research-creation Methods in Communications: Perspectives from the Field'
+      date: 2021-06
+      location: Canadian Communication Association Conference, Edmonton, AB
+      summary: Panel chair
+    - name: Institute for Research on Digital Literacies
+      date: 2021-03
+      location: York University, Toronto, ON
+      summary: Keynote presenter
+    - name: Artist-Centered Platforms Workshop
+      date: 2021-02
+      location: College Art Association Conference (online)
+      summary: Workshop presenter
+    - name: 'Learning to Teach Creative Technologies Remotely: A Virtual UnSymposium'
+      date: 2021-01
+      location: New York University
+      summary: Conference presenter
+    - name: 'Mediating the Crisis: Platformisation in the Face of COVID-19 and Beyond'
+      date: 2020-11
+      location: Goldsmiths University, London, UK
+      summary: Conference presenter
+    - name: Our Networks Conference
+      date: 2020-09
+      location: Online
+      summary: Conference presenter
+    - name: Artist Run Centres & Collectives of Ontario Summit
+      date: 2020-07
+      location: Online
+      summary: Conference presenter
+    - name: 7th Conference on Computation, Communication, Aesthetics & X
+      date: 2019-07
+      location: Milan, IT
+      summary: Presenter
+    - name: Intersections/Cross-sections Conference
+      date: 2019-02
+      location: York University, Toronto, ON
+      summary: Conference panelist
+    - name: Future Communications Conference
+      date: 2018-12
+      location: York University, Toronto, ON
+      summary: Conference panelist
+    - name: 'Particle and Wave Festival: True Weight of Sound Panel'
+      date: 2015-02
+      location: Calgary, AB
+      summary: Conference panelist
+    - name: SASA Art History Conference
+      date: 2013-02
+      location: Concordia University, Montreal, QC
+      summary: Conference panelist
+    selected_residencies_and_research_fellowships:
+    - name: Data Fluencies Project Co-investigator (PI Wendy Chun)
+      location: Digital Democracies Institute, Simon Fraser University, Vancouver, BC
+      start_date: 2022-09
+      end_date: 2025-06
+    - name: Deconstructing/Performing the Amazon Ring Security Apparatus Project Researcher (PI Evan Light)
+      location: York University, Toronto, ON
+      start_date: 2022-09
+      end_date: 2023-05
+    - name: Alberta Biennial Sessions Program Resident
+      location: The Banff Centre, Banff, AB
+      date: 2016-07
+    - name: Banff Artist in Residence Program Resident
+      location: The Banff Centre, Banff, AB
+      date: 2014-03
+    selected_invited_speaking_engagements_and_workshops:
+    - name: Digital Reset Workshop
+      location: New York University, New York, NY
+      date: 2023-10
+    - name: IDM x Onassis ONX Speaker Series
+      location: New York University, New York, NY
+      date: 2023-09
+    - name: Speculative Science Fiction Workshop
+      location: Esker Foundation, Calgary, AB
+      date: 2019-03
+    - name: Crash Course in Contemporary Art (Lecture)
+      location: Esker Foundation, Calgary, AB
+      date: 2019-03
+    - name: Projection Mapping Workshop
+      location: EMMEDIA, Calgary, AB
+      date: 2018-08
+    - name: Crash Course in Contemporary Art (Guest Lecturer)
+      location: Esker Foundation, Calgary, AB
+      date: 2017-11
+    - name: Projection Mapping Workshop
+      location: EMMEDIA, Calgary, AB
+      date: 2017-08
+    - name: Projection Mapping Workshop
+      location: EMMEDIA, Calgary, AB
+      date: 2016-07
+    - name: Visiting Artist Lecture, Art + Design Now
+      location: Alberta University of the Arts
+      date: 2015-11
+    - name: '"Biosensing and Music" Workshop'
+      location: Eastern Bloc, Montreal, QC
+      date: 2012-10
+    - name: '"Personal Energy Harvesting" Workshop'
+      location: Eastern Bloc, Montreal, QC
+      date: 2012-04
+    - name: '"Actuate Everything" Workshop'
+      location: University of Calgary, Calgary, AB
+      date: 2009-10
+    selected_juries_research_and_service_activities:
+    - name: External Assessor
+      location: Social Sciences and Humanities Research Council, Ottawa, ON
+      date: 2026-02
+    - name: Co-director
+      location: SORCE Collective, York & Toronto Metropolitan Universities, Toronto, ON
+      start_date: 2019-09
+      end_date: 2021-11
+    - name: Virtual Grounds Residency Project Mentor
+      location: Trinity Square Video and Data Justice Lab, Toronto, ON
+      start_date: 2020-05
+      end_date: 2020-10
+    - name: Peer Assessment Jurist, Digital and New Media Arts Grants
+      location: Canada Council for the Arts, Ottawa, ON
+      date: 2018-12
+    - name: Jurist for Operating Grants
+      location: Calgary Arts Development, Calgary, AB
+      date: 2018-05
+    - name: Board Member
+      location: EMMEDIA, Calgary, AB
+      start_date: 2014-11
+      end_date: 2016-05
+    - name: Peer Assessment Jurist, Media Arts Section Grants
+      location: Canada Council for the Arts, Ottawa, ON
+      date: 2014-06
+    - name: TEX(T)ECH Workshop Facilitator
+      location: The Banff Centre, Banff, AB
+      date: 2014-02
+    selected_reviews_publicity_and_scholarly_mentions:
+    - name: 'Scholarly mention in Technologies of the New Real: Viral Contagion and Death of the Social'
+      summary: Arthur Kroker and Marilouise Kroker
+      date: '2021-10-08'
+    - name: '"Amplification" (review)'
+      summary: Canadian Art
+      date: '2018-10-23'
+    - name: '"Wreck City Residency Explores ''How We Live'' with Interactive Exhibits throughout the City"'
+      summary: Calgary Herald
+      date: '2018-08-02'
+    - name: '"Which Shape With Everyday Items Stuck On It Are You Really?"'
+      summary: Luma Quarterly
+      date: '2017-08-30'
+    - name: '"An Ambitious & Messy Homage to Life: Alberta''s Biennial of Contemporary Art"'
+      summary: The Wanderer (web)
+      date: '2017-06-27'
+    - name: '"Art Gallery of Alberta''s 2017 Biennial Refuses to Speak for Us All, in the Very Best Way"'
+      summary: Edmonton Journal
+      date: '2017-06-15'
+    - name: '"Craig Fahner & Steve Gurysh at 8-11"'
+      summary: Akimbo (web)
+      date: '2015-07-21'
+    - name: '"Turangalila is Fatal Love that Fulfills, Writes Giller Winner Sean Michaels, Mascot of Early
+        Electronic Instruments"'
+      summary: National Post (national)
+      date: '2014-12-04'
+    - name: '"Calgary Philharmonic Teams Up with ACAD for Display of Sound and Colour"'
+      summary: The Globe and Mail (national)
+      date: '2014-11-27'
+    - name: '"Digital Art and Mid-20th-Century Composition"'
+      summary: Fast Forward Weekly (Calgary, AB)
+      date: '2014-11-27'
+    - name: '"Philharmonic Celebrates with a Touch of Paris"'
+      summary: Calgary Herald
+      date: '2014-11-19'
+    - name: '"Sweet Nothing" (interview)'
+      summary: BLOCK Magazine
+      date: '2014'
+    - name: '"Medias Sociaux" (issue 26)'
+      summary: Urbania Magazine
+      date: '2010'
+    - name: Interview for Spark Programme
+      summary: CBC Radio 1 (national)
+      date: '2009-12-06'
+    - name: '"25 Alberta Artists to Rep Province''s Creative Scene in 2017 Alberta Biennial" (selection
+        announcement)'
+      summary: Canadian Art
+      date: '2016-01-25'
+      url: https://canadianart.ca/news/25-alberta-artists-to-rep-provinces-creative-scene-in-2017-alberta-biennial/
+    - name: '"New Faculty - Fall 2023" (faculty profile, describes Eigengrau)'
+      summary: NYU Tandon School of Engineering
+      date: '2023-09-11'
+      url: https://engineering.nyu.edu/news/new-faculty-fall-2023
+    skills_and_expertise:
+    - label: Areas of expertise
+      details: Interactive media art, performance, sound art, screen-based media, virtual reality, audio
+        production, game-based art, immersive 3D environments, net-art, electronics and physical computing,
+        media theory, art theory, infrastructure studies, critical algorithm studies, the political economy
+        of the internet, surveillance studies, science and technology studies, platform studies, machine
+        learning, data justice, independent and experimental music
+    - label: Media production
+      details: Adobe Creative Suite, Final Cut Pro, Logic Pro, Ableton Live, Pro Tools, Audacity, Blender
+        3D
+    - label: Programming languages
+      details: C-sharp, Python, Processing, Arduino, Max, JavaScript, HTML and CSS, Unity3D, P5.js, ML5.js,
+        RunwayML, TouchDesigner, TensorFlow, node.js
+    - label: Hardware / tech skills
+      details: Multitrack audio recording, live audio/video, video production, studio lighting, in-camera
+        video and film techniques, circuit design and fabrication, woodworking and metalworking, image
+        editing, risography
+    - label: Training courses completed
+      details: WHMIS 1988 Training (AUArts), AUArts Copyright and Fair Use Training, AUArts Freedom of
+        Information and Protection of Privacy Training, IT Risk and Cybersecurity Training (AUArts), Occupational
+        Health and Safety Awareness Training (AUArts), Personal Protective Equipment Training (AUArts),
+        Workplace Hazards Training (AUArts), Unconscious Bias and Equity Training (Calgary Arts Development),
+        Accommodating Accommodation Training (Toronto Metropolitan University), Fostering Communities
+        of Learners in Large Lectures Workshop (Toronto Metropolitan University)
+    - label: Other
+      details: Strong collaborative skills, organizational and leadership experience, equity, diversity
+        and justice conscious practice
+design:
+  theme: sb2nov

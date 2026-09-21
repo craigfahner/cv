@@ -1,0 +1,2251 @@
+[
+  {
+    "id": "education-2018-toronto-metropolitan-university-and-york-university",
+    "type": "education",
+    "hidden": false,
+    "date": "2018",
+    "end_date": "2023",
+    "institution": "Toronto Metropolitan University & York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "degree": "PhD",
+    "area": "Communication and Culture"
+  },
+  {
+    "id": "education-2010-carnegie-mellon-university",
+    "type": "education",
+    "hidden": false,
+    "date": "2010",
+    "end_date": "2013",
+    "institution": "Carnegie Mellon University",
+    "city": "Pittsburgh",
+    "region": "PA",
+    "country": "United States",
+    "degree": "MFA",
+    "area": "Art"
+  },
+  {
+    "id": "education-2008-concordia-university",
+    "type": "education",
+    "hidden": false,
+    "date": "2008",
+    "end_date": "2010",
+    "institution": "Concordia University",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "degree": "BFA",
+    "area": "Intermedia/Cyberarts"
+  },
+  {
+    "id": "education-2005-university-of-calgary",
+    "type": "education",
+    "hidden": true,
+    "date": "2005",
+    "end_date": "2008",
+    "institution": "University of Calgary",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "degree": "BFA",
+    "area": "Photography",
+    "highlights": [
+      "Towards BFA"
+    ]
+  },
+  {
+    "id": "appointment-2026-08-pratt-institute-school-of-information",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2026-08",
+    "end_date": "present",
+    "title": "Assistant Professor",
+    "institution": "Pratt Institute, School of Information",
+    "city": "New York",
+    "region": "NY",
+    "country": "United States",
+    "courses_taught": [
+      {
+        "code": "INFO 601",
+        "title": "Foundations of Information"
+      },
+      {
+        "code": "INFO 664",
+        "title": "Programming for Cultural Heritage"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2023-09-new-york-university-tandon-school-of-engineering",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2023-09",
+    "end_date": "2026-08",
+    "title": "Visiting Assistant Professor of Integrated Design & Media",
+    "institution": "New York University, Tandon School of Engineering",
+    "city": "New York",
+    "region": "NY",
+    "country": "United States",
+    "courses_taught": [
+      {
+        "code": "DM-GY 6063 A",
+        "title": "Creative Coding"
+      },
+      {
+        "code": "DM-GY 921X C",
+        "title": "Independent Study in Design & Media: Speculative Networks"
+      },
+      {
+        "code": "DM-GY 9103 G",
+        "title": "Special Topics in Digital Media – Affective Interfaces"
+      },
+      {
+        "code": "DM-UY 4913-B",
+        "title": "Data Visceralization"
+      },
+      {
+        "code": "DM-UY 1133-D",
+        "title": "Creative Coding"
+      },
+      {
+        "code": "DM-GY 9103 G",
+        "title": "Special Topics in Digital Media – Speculative Networks"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2019-09-york-university",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2019-09",
+    "end_date": "2022-12",
+    "title": "Sessional Instructor",
+    "institution": "York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "courses_taught": [
+      {
+        "code": "COMS 3202",
+        "title": "Digital Discourse and Design"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2019-01-toronto-metropolitan-university",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2019-01",
+    "end_date": "2020-05",
+    "title": "Sessional Instructor",
+    "institution": "Toronto Metropolitan University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "courses_taught": [
+      {
+        "code": "RTA 221",
+        "title": "Experiential Media and Interdisciplinary Practice"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2013-09-alberta-university-of-the-arts",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2013-09",
+    "end_date": "2018-04",
+    "title": "Sessional Faculty, Media Arts Program",
+    "institution": "Alberta University of the Arts",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "courses_taught": [
+      {
+        "code": "MADT 101",
+        "title": "Exploring Media Culture"
+      },
+      {
+        "code": "MADT 202",
+        "title": "Digital Studio"
+      },
+      {
+        "code": "MADT 204",
+        "title": "Interactive Object I"
+      },
+      {
+        "code": "MADT 307",
+        "title": "Computational Art"
+      },
+      {
+        "code": "MADT 315",
+        "title": "A/V for Performance and Installation"
+      },
+      {
+        "code": "MADT 304",
+        "title": "Interactive Object II"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2013-09-university-of-calgary",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2013-09",
+    "end_date": "2020-08",
+    "title": "Sessional Instructor",
+    "institution": "University of Calgary",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "courses_taught": [
+      {
+        "code": "Art 311",
+        "title": "Survey of New Media Art"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2015-01-university-of-calgary",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2015-01",
+    "end_date": "2015-04",
+    "title": "Sessional Instructor",
+    "institution": "University of Calgary",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "courses_taught": [
+      {
+        "code": "Art 317",
+        "title": "Electronics for Artists"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2011-07-university-of-calgary",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2011-07",
+    "end_date": "2011-08",
+    "title": "Sessional Instructor",
+    "institution": "University of Calgary",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "courses_taught": [
+      {
+        "code": "Art 315",
+        "title": "Programming for Artists"
+      }
+    ]
+  },
+  {
+    "id": "appointment-2010-07-university-of-calgary",
+    "type": "appointment",
+    "hidden": false,
+    "date": "2010-07",
+    "end_date": "2010-08",
+    "title": "Sessional Instructor",
+    "institution": "University of Calgary",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "courses_taught": [
+      {
+        "code": "Art 235.61",
+        "title": "Introduction to Photography"
+      }
+    ]
+  },
+  {
+    "id": "exhibition-2026-10-wild-lots",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2026-10",
+    "work": "wild-lots",
+    "title": "Wild Lots",
+    "medium": "Interactive data visualization installation",
+    "collaborators": [
+      "Alissa Kushner"
+    ],
+    "created": "2026",
+    "venue": "Society for the Social Studies of Science, Making & Doing Exhibition",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://craigfahner.com/2026Wild_Lots"
+  },
+  {
+    "id": "exhibition-2026-04-wild-lots",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2026-04",
+    "end_date": "2026-05",
+    "work": "wild-lots",
+    "title": "Wild Lots",
+    "medium": "Interactive data visualization installation",
+    "collaborators": [
+      "Alissa Kushner"
+    ],
+    "created": "2026",
+    "venue": "Department of City Planning",
+    "city": "New York",
+    "region": "NY",
+    "country": "United States",
+    "url": "https://craigfahner.com/2026Wild_Lots"
+  },
+  {
+    "id": "exhibition-2026-03-wild-lots",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2026-03",
+    "end_date": "2026-04",
+    "work": "wild-lots",
+    "title": "Wild Lots",
+    "medium": "Interactive data visualization installation",
+    "collaborators": [
+      "Alissa Kushner"
+    ],
+    "created": "2026",
+    "venue": "Data Through Design (DxD)",
+    "city": "Brooklyn",
+    "region": "NY",
+    "country": "United States",
+    "url": "https://craigfahner.com/2026Wild_Lots"
+  },
+  {
+    "id": "exhibition-2025-05-image-and-affect",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2025-05",
+    "work": "image-and-affect",
+    "title": "Image and Affect",
+    "medium": "Generative drawings and interactive software",
+    "collaborators": [
+      "Ganaele Langlois",
+      "Rory Sharp",
+      "Anthony Burton",
+      "Mel Racho",
+      "Matt Canute"
+    ],
+    "event": "Data Fluencies: Tributaries",
+    "created": "2025",
+    "venue": "Or Gallery",
+    "city": "Vancouver",
+    "region": "BC",
+    "country": "Canada",
+    "url": "https://www.dataffect.ca/"
+  },
+  {
+    "id": "exhibition-2025-04-image-and-affect",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2025-04",
+    "work": "image-and-affect",
+    "title": "Image and Affect",
+    "medium": "Generative drawings and interactive software",
+    "collaborators": [
+      "Ganaele Langlois",
+      "Rory Sharp",
+      "Anthony Burton",
+      "Mel Racho",
+      "Matt Canute"
+    ],
+    "event": "Data Fluencies: Rivulets",
+    "created": "2025",
+    "venue": "Boston Cyberarts",
+    "city": "Boston",
+    "region": "MA",
+    "country": "United States",
+    "url": "https://www.dataffect.ca/"
+  },
+  {
+    "id": "exhibition-2025-03-deep-dive",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2025-03",
+    "work": "deep-dive",
+    "title": "Deep Dive",
+    "medium": "Video game",
+    "collaborators": [
+      "Mat Lindenberg",
+      "Peter Nichols",
+      "Matthew Waddell"
+    ],
+    "event": "International Conference on Games and Narrative",
+    "created": "2025",
+    "venue": "University of Waterloo",
+    "city": "Waterloo",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://craigfahner.com/2022Deep_Dive"
+  },
+  {
+    "id": "exhibition-2025-10-enter-the-ring",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2025-10",
+    "work": "enter-the-ring",
+    "title": "Enter the Ring",
+    "medium": "Interactive installation",
+    "collaborators": [
+      "Evan Light",
+      "Ellouise McGeachie",
+      "Quinn MacNeil"
+    ],
+    "event": "Digital Expo",
+    "created": "2023",
+    "venue": "North York Public Library",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://craigfahner.com/2023Enter_the_Ring"
+  },
+  {
+    "id": "exhibition-2024-06-enter-the-ring",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2024-06",
+    "work": "enter-the-ring",
+    "title": "Enter the Ring",
+    "medium": "Interactive installation",
+    "collaborators": [
+      "Evan Light",
+      "Ellouise McGeachie",
+      "Quinn MacNeil"
+    ],
+    "created": "2023",
+    "venue": "Surveillance Studies Network Conference",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "url": "https://craigfahner.com/2023Enter_the_Ring"
+  },
+  {
+    "id": "exhibition-2023-03-enter-the-ring",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2023-03",
+    "work": "enter-the-ring",
+    "title": "Enter the Ring",
+    "medium": "Interactive installation",
+    "collaborators": [
+      "Evan Light",
+      "Ellouise McGeachie",
+      "Quinn MacNeil"
+    ],
+    "created": "2023",
+    "venue": "Sensorium, York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://craigfahner.com/2023Enter_the_Ring"
+  },
+  {
+    "id": "exhibition-2023-05-enter-the-ring",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2023-05",
+    "work": "enter-the-ring",
+    "title": "Enter the Ring",
+    "medium": "Interactive installation",
+    "collaborators": [
+      "Evan Light",
+      "Ellouise McGeachie",
+      "Quinn MacNeil"
+    ],
+    "event": "(de)Stabilizing Diffusions",
+    "curators": [
+      "Maurice Jones"
+    ],
+    "created": "2023",
+    "venue": "Société des Arts Technologiques",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://craigfahner.com/2023Enter_the_Ring"
+  },
+  {
+    "id": "exhibition-2023-05-enter-the-ring-2",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2023-05",
+    "work": "enter-the-ring",
+    "title": "Enter the Ring",
+    "medium": "Interactive installation",
+    "collaborators": [
+      "Evan Light",
+      "Ellouise McGeachie",
+      "Quinn MacNeil"
+    ],
+    "event": "Canadian Communication Association Congress 2023",
+    "created": "2023",
+    "venue": "York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://craigfahner.com/2023Enter_the_Ring"
+  },
+  {
+    "id": "exhibition-2021-10-spore-protocol",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2021-10",
+    "work": "spore-protocol",
+    "title": "Spore Protocol",
+    "medium": "Web-based artwork",
+    "event": "Public Space",
+    "curators": [
+      "Sahar Te"
+    ],
+    "created": "2021",
+    "venue": "Visual Arts Centre of Clarington",
+    "city": "Clarington",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "exhibition-2020-09-eigengrau",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2020-09",
+    "work": "eigengrau",
+    "title": "Eigengrau",
+    "medium": "Web-based artwork",
+    "created": "2020",
+    "venue": "Our Networks Conference, Online",
+    "url": "https://www.craigfahner.com/2020Eigengrau"
+  },
+  {
+    "id": "exhibition-2019-08-cloud-and-dust",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2019-08",
+    "work": "cloud-and-dust",
+    "title": "Cloud and Dust",
+    "medium": "Artist publication",
+    "event": "Unscheduled Arrivals",
+    "created": "2019",
+    "venue": "Bunker2",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "exhibition-2018-07-deep-solutions",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2018-07",
+    "end_date": "2018-08",
+    "work": "deep-solutions",
+    "title": "Deep Solutions",
+    "medium": "VR installation",
+    "collaborators": [
+      "Matthew Waddell"
+    ],
+    "created": "2018",
+    "venue": "WRECK CITY Residency and Exhibition",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2019Deep_Solutions"
+  },
+  {
+    "id": "exhibition-2018-10-deep-solutions",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2018-10",
+    "work": "deep-solutions",
+    "title": "Deep Solutions",
+    "medium": "VR installation",
+    "collaborators": [
+      "Matthew Waddell"
+    ],
+    "event": "10th Anniversary Exhibition",
+    "curators": [
+      "Eliane Ellbogen"
+    ],
+    "created": "2018",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2019Deep_Solutions"
+  },
+  {
+    "id": "exhibition-2019-07-deep-solutions",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2019-07",
+    "end_date": "2019-09",
+    "work": "deep-solutions",
+    "title": "Deep Solutions",
+    "medium": "VR installation",
+    "collaborators": [
+      "Matthew Waddell"
+    ],
+    "curators": [
+      "Lindsey Sharman"
+    ],
+    "created": "2018",
+    "venue": "Processor: Digital and Analogue Retranslations",
+    "city": "Edmonton",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2019Deep_Solutions"
+  },
+  {
+    "id": "exhibition-2018-08-cool-water",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2018-08",
+    "work": "cool-water",
+    "title": "Cool Water",
+    "medium": "3D animated video",
+    "collaborators": [
+      "Mat Lindenberg"
+    ],
+    "event": "Vortex",
+    "curators": [
+      "Theo Triantafyllidis",
+      "Troy Kreiner"
+    ],
+    "created": "2018",
+    "venue": "Driveway 327",
+    "city": "Los Angeles",
+    "region": "CA",
+    "country": "United States",
+    "url": "https://www.craigfahner.com/2018Cool_Water"
+  },
+  {
+    "id": "exhibition-2018-02-deep-website",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2018-02",
+    "work": "deep-website",
+    "title": "Deep Website",
+    "medium": "Audio/video performance",
+    "collaborators": [
+      "Matthew Waddell"
+    ],
+    "event": "Particle + Wave Media Arts Festival",
+    "created": "2017",
+    "venue": "Festival Hall",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2018Deep_Website"
+  },
+  {
+    "id": "exhibition-2018-06-deep-website",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2018-06",
+    "work": "deep-website",
+    "title": "Deep Website",
+    "medium": "Audio/video performance",
+    "collaborators": [
+      "Matthew Waddell"
+    ],
+    "event": "Sled Island Music and Arts Festival",
+    "created": "2017",
+    "venue": "Studio Bell",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2018Deep_Website"
+  },
+  {
+    "id": "exhibition-2017-05-smokescreen",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2017-05",
+    "end_date": "2017-09",
+    "work": "smokescreen",
+    "title": "Smokescreen",
+    "medium": "Interactive installation",
+    "collaborators": [
+      "Neal Moignard"
+    ],
+    "event": "2017 Alberta Biennial",
+    "curators": [
+      "Peta Rake",
+      "Kristy Trinier"
+    ],
+    "created": "2017",
+    "venue": "Art Gallery of Alberta",
+    "city": "Edmonton",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2017Smokescreen"
+  },
+  {
+    "id": "exhibition-2016-09-pure-water-touching-clear-sky",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2016-09",
+    "end_date": "2016-10",
+    "work": "pure-water-touching-clear-sky",
+    "title": "Pure Water Touching Clear Sky",
+    "medium": "Interactive social media installation",
+    "event": "2016 Sight & Sound Festival: Per Capita",
+    "curators": [
+      "Eliane Ellbogen"
+    ],
+    "created": "2016",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2016Pure_Water_Touching_Clear_Sky"
+  },
+  {
+    "id": "exhibition-2016-01-basic-orbital-manoeuvres",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2016-01",
+    "work": "basic-orbital-manoeuvres",
+    "title": "Basic Orbital Manoeuvres",
+    "medium": "Virtual reality installation",
+    "event": "Gym of Obsolete Technology",
+    "curators": [
+      "Helena Sanders",
+      "Margarita Osipian"
+    ],
+    "created": "2015",
+    "venue": "W139",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "url": "https://www.craigfahner.com/2015Basic_Orbital_Manoeuvres"
+  },
+  {
+    "id": "exhibition-2015-07-basic-orbital-manoeuvres",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2015-07",
+    "work": "basic-orbital-manoeuvres",
+    "title": "Basic Orbital Manoeuvres",
+    "medium": "Virtual reality installation",
+    "event": "The Radiant",
+    "curators": [
+      "Xenia Benivolski"
+    ],
+    "created": "2015",
+    "venue": "8-11 Gallery",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2015Basic_Orbital_Manoeuvres"
+  },
+  {
+    "id": "exhibition-2015-02-particle-and-wave",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2015-02",
+    "work": "particle-and-wave",
+    "title": "Particle and Wave",
+    "medium": "Series of audio performances",
+    "event": "Particle + Wave Media Arts Festival",
+    "created": "2015",
+    "venue": "Festival Hall",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2015Particle_and_Wave"
+  },
+  {
+    "id": "exhibition-2014-11-turangalila-symphonie",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2014-11",
+    "work": "turangalila-symphonie",
+    "title": "Turangalila Symphonie",
+    "medium": "Live cinema performance (technical and creative director)",
+    "event": "Turangalila Symphonie",
+    "created": "2014",
+    "venue": "Calgary Philharmonic Orchestra",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2014Turangalila"
+  },
+  {
+    "id": "exhibition-2015-09-coherer",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2015-09",
+    "work": "coherer",
+    "title": "Coherer",
+    "medium": "Interactive audio installation",
+    "event": "Device Art Triennial 5",
+    "curators": [
+      "Kontejner"
+    ],
+    "created": "2014",
+    "venue": "Galerija Klovićevi dvori",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "url": "https://www.craigfahner.com/2014Coherer"
+  },
+  {
+    "id": "exhibition-2013-03-borderland",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2013-03",
+    "work": "borderland",
+    "title": "Borderland",
+    "medium": "Interactive audio installation",
+    "event": "Basement Miracle",
+    "created": "2013",
+    "venue": "Miller Gallery",
+    "city": "Pittsburgh",
+    "region": "PA",
+    "country": "United States",
+    "url": "https://www.craigfahner.com/2013Borderland"
+  },
+  {
+    "id": "exhibition-2012-10-fusillade",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-10",
+    "work": "fusillade",
+    "title": "Fusillade",
+    "medium": "Audio installation",
+    "event": "Import/Export (solo exhibition)",
+    "created": "2012",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada"
+  },
+  {
+    "id": "exhibition-2016-01-how-to-improve-the-world",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2016-01",
+    "work": "how-to-improve-the-world",
+    "title": "How to Improve the World (You Will Only Make Things Worse)",
+    "medium": "Video/performance",
+    "collaborators": [
+      "Steve Gurysh"
+    ],
+    "event": "Gym of Obsolete Technology",
+    "curators": [
+      "Helena Sanders",
+      "Margarita Osipian"
+    ],
+    "created": "2011–2012",
+    "venue": "W139",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "url": "https://www.craigfahner.com/2012How_to_Improve_the_World"
+  },
+  {
+    "id": "exhibition-2015-07-how-to-improve-the-world",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2015-07",
+    "work": "how-to-improve-the-world",
+    "title": "How to Improve the World (You Will Only Make Things Worse)",
+    "medium": "Video/performance",
+    "collaborators": [
+      "Steve Gurysh"
+    ],
+    "event": "The Radiant",
+    "curators": [
+      "Xenia Benivolski"
+    ],
+    "created": "2011–2012",
+    "venue": "8-11 Gallery",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2012How_to_Improve_the_World"
+  },
+  {
+    "id": "exhibition-2015-07-how-to-improve-the-world-2",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2015-07",
+    "work": "how-to-improve-the-world",
+    "title": "How to Improve the World (You Will Only Make Things Worse)",
+    "medium": "Video/performance",
+    "collaborators": [
+      "Steve Gurysh"
+    ],
+    "event": "How to Improve the World (screening and performance)",
+    "created": "2011–2012",
+    "venue": "Museum of Contemporary Canadian Art",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2012How_to_Improve_the_World"
+  },
+  {
+    "id": "exhibition-2015-01-how-to-improve-the-world",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2015-01",
+    "work": "how-to-improve-the-world",
+    "title": "How to Improve the World (You Will Only Make Things Worse)",
+    "medium": "Video/performance",
+    "collaborators": [
+      "Steve Gurysh"
+    ],
+    "event": "An Earthquake at the Racetracks",
+    "curators": [
+      "Juergen Dehm",
+      "Xenia Benivolski"
+    ],
+    "created": "2011–2012",
+    "venue": "Museo de la Ciudad",
+    "city": "Querétaro",
+    "country": "Mexico",
+    "url": "https://www.craigfahner.com/2012How_to_Improve_the_World"
+  },
+  {
+    "id": "exhibition-2012-11-how-to-improve-the-world",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-11",
+    "work": "how-to-improve-the-world",
+    "title": "How to Improve the World (You Will Only Make Things Worse)",
+    "medium": "Video/performance",
+    "collaborators": [
+      "Steve Gurysh"
+    ],
+    "event": "Ignition 5.0",
+    "created": "2011–2012",
+    "venue": "Shot Tower Gallery",
+    "city": "Columbus",
+    "region": "OH",
+    "country": "United States",
+    "url": "https://www.craigfahner.com/2012How_to_Improve_the_World"
+  },
+  {
+    "id": "exhibition-2012-03-how-to-improve-the-world",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-03",
+    "work": "how-to-improve-the-world",
+    "title": "How to Improve the World (You Will Only Make Things Worse)",
+    "medium": "Video/performance",
+    "collaborators": [
+      "Steve Gurysh"
+    ],
+    "event": "How to Improve the World",
+    "created": "2011–2012",
+    "venue": "Fe Gallery",
+    "city": "Pittsburgh",
+    "region": "PA",
+    "country": "United States",
+    "url": "https://www.craigfahner.com/2012How_to_Improve_the_World"
+  },
+  {
+    "id": "exhibition-2011-09-how-to-improve-the-world",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2011-09",
+    "work": "how-to-improve-the-world",
+    "title": "How to Improve the World (You Will Only Make Things Worse)",
+    "medium": "Video/performance",
+    "collaborators": [
+      "Steve Gurysh"
+    ],
+    "event": "And No One Was Around (Pop Montreal Festival)",
+    "created": "2011–2012",
+    "venue": "Société des Arts Technologiques",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2012How_to_Improve_the_World"
+  },
+  {
+    "id": "exhibition-2012-10-alternator",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-10",
+    "work": "alternator",
+    "title": "Alternator",
+    "medium": "Video installation/performance",
+    "event": "Import/Export (solo exhibition)",
+    "created": "2011",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2011Alternator"
+  },
+  {
+    "id": "exhibition-2013-09-organ",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2013-09",
+    "work": "organ",
+    "title": "Organ",
+    "medium": "Interactive audio installation",
+    "event": "Du Coeur",
+    "created": "2011",
+    "venue": "Intersite Art Festival",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2010Organ"
+  },
+  {
+    "id": "exhibition-2012-10-organ",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-10",
+    "work": "organ",
+    "title": "Organ",
+    "medium": "Interactive audio installation",
+    "event": "Import/Export (solo exhibition)",
+    "created": "2011",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2010Organ"
+  },
+  {
+    "id": "exhibition-2012-11-whorl",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-11",
+    "work": "whorl",
+    "title": "Whorl",
+    "medium": "Interactive audio installation",
+    "collaborators": [
+      "Neal Moignard"
+    ],
+    "created": "2010",
+    "venue": "TELUS Spark",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2009Whorl"
+  },
+  {
+    "id": "exhibition-2012-10-whorl",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-10",
+    "work": "whorl",
+    "title": "Whorl",
+    "medium": "Interactive audio installation",
+    "collaborators": [
+      "Neal Moignard"
+    ],
+    "event": "Import/Export (solo exhibition)",
+    "created": "2010",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2009Whorl"
+  },
+  {
+    "id": "exhibition-2012-09-whorl",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2012-09",
+    "work": "whorl",
+    "title": "Whorl",
+    "medium": "Interactive audio installation",
+    "collaborators": [
+      "Neal Moignard"
+    ],
+    "event": "Nuit Blanche Festival",
+    "created": "2010",
+    "venue": "New Adventures in Sound Art",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2009Whorl"
+  },
+  {
+    "id": "exhibition-2011-02-whorl",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2011-02",
+    "work": "whorl",
+    "title": "Whorl",
+    "medium": "Interactive audio installation",
+    "collaborators": [
+      "Neal Moignard"
+    ],
+    "event": "Nuit Blanche Festival: The Black Hole",
+    "created": "2010",
+    "venue": "Red Bird Studios",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2009Whorl"
+  },
+  {
+    "id": "exhibition-2009-10-garden",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2009-10",
+    "work": "garden",
+    "title": "#garden",
+    "medium": "Interactive networked installation",
+    "event": "#garden",
+    "created": "2009",
+    "venue": "TRUCK +15 Window Project",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2009--garden"
+  },
+  {
+    "id": "exhibition-2011-05-open-field",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2011-05",
+    "work": "open-field",
+    "title": "Open Field",
+    "medium": "Interactive audio installation",
+    "collaborators": [
+      "Neal Moignard",
+      "Jean-René Leblanc"
+    ],
+    "event": "Re:flux Festival",
+    "created": "2009",
+    "venue": "Galerie Sans Nom",
+    "city": "Moncton",
+    "region": "NB",
+    "country": "Canada",
+    "url": "https://www.craigfahner.com/2009Open_Field"
+  },
+  {
+    "id": "exhibition-2011-01-open-field",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2011-01",
+    "work": "open-field",
+    "title": "Open Field",
+    "medium": "Interactive audio installation",
+    "collaborators": [
+      "Neal Moignard",
+      "Jean-René Leblanc"
+    ],
+    "event": "Retina",
+    "created": "2009",
+    "venue": "Buckham Gallery",
+    "city": "Flint",
+    "region": "MI",
+    "country": "United States",
+    "url": "https://www.craigfahner.com/2009Open_Field"
+  },
+  {
+    "id": "exhibition-2010-10-open-field",
+    "type": "exhibition",
+    "hidden": false,
+    "date": "2010-10",
+    "work": "open-field",
+    "title": "Open Field",
+    "medium": "Interactive audio installation",
+    "collaborators": [
+      "Neal Moignard",
+      "Jean-René Leblanc"
+    ],
+    "event": "Off the Strip",
+    "created": "2009",
+    "venue": "The Atomic Testing Museum",
+    "city": "Las Vegas",
+    "region": "NV",
+    "country": "United States",
+    "url": "https://www.craigfahner.com/2009Open_Field"
+  },
+  {
+    "id": "grant-2022-09-data-fluencies",
+    "type": "grant",
+    "hidden": false,
+    "date": "2022-09",
+    "end_date": "2025-06",
+    "title": "Data Fluencies",
+    "funder": "Mellon Foundation"
+  },
+  {
+    "id": "grant-2019-09-canada-graduate-scholarship-doctoral",
+    "type": "grant",
+    "hidden": false,
+    "date": "2019-09",
+    "end_date": "2022-05",
+    "title": "Canada Graduate Scholarship – Doctoral",
+    "funder": "SSHRC"
+  },
+  {
+    "id": "grant-2020-11-dr-liss-jeffrey-graduate-award",
+    "type": "grant",
+    "hidden": false,
+    "date": "2020-11",
+    "title": "Dr. Liss Jeffrey Graduate Award",
+    "funder": "Toronto Metropolitan University"
+  },
+  {
+    "id": "grant-2018-09-ryerson-graduate-fellowship",
+    "type": "grant",
+    "hidden": false,
+    "date": "2018-09",
+    "title": "Ryerson Graduate Fellowship",
+    "funder": "Toronto Metropolitan University"
+  },
+  {
+    "id": "grant-2018-02-faculty-professional-affairs-committee-funding",
+    "type": "grant",
+    "hidden": false,
+    "date": "2018-02",
+    "title": "Faculty Professional Affairs Committee Funding",
+    "funder": "Alberta University of the Arts"
+  },
+  {
+    "id": "grant-2016-10-faculty-professional-affairs-committee-funding",
+    "type": "grant",
+    "hidden": false,
+    "date": "2016-10",
+    "title": "Faculty Professional Affairs Committee Funding",
+    "funder": "Alberta University of the Arts"
+  },
+  {
+    "id": "grant-2016-07-media-art-production-grant",
+    "type": "grant",
+    "hidden": false,
+    "date": "2016-07",
+    "title": "Media Art Production Grant",
+    "funder": "Canada Council for the Arts"
+  },
+  {
+    "id": "grant-2016-06-visual-arts-and-new-media-project-grant",
+    "type": "grant",
+    "hidden": false,
+    "date": "2016-06",
+    "title": "Visual Arts and New Media Project Grant",
+    "funder": "Alberta Foundation for the Arts"
+  },
+  {
+    "id": "grant-2016-01-travel-grants-to-media-arts-professionals",
+    "type": "grant",
+    "hidden": false,
+    "date": "2016-01",
+    "title": "Travel Grants to Media Arts Professionals",
+    "funder": "Canada Council for the Arts"
+  },
+  {
+    "id": "grant-2015-07-artist-opportunity-grant",
+    "type": "grant",
+    "hidden": false,
+    "date": "2015-07",
+    "title": "Artist Opportunity Grant",
+    "funder": "Calgary Arts Development"
+  },
+  {
+    "id": "grant-2014-12-visual-arts-and-new-media-project-grant",
+    "type": "grant",
+    "hidden": false,
+    "date": "2014-12",
+    "title": "Visual Arts and New Media Project Grant",
+    "funder": "Alberta Foundation for the Arts"
+  },
+  {
+    "id": "grant-2014-10-faculty-professional-affairs-committee-funding",
+    "type": "grant",
+    "hidden": false,
+    "date": "2014-10",
+    "title": "Faculty Professional Affairs Committee Funding",
+    "funder": "Alberta University of the Arts"
+  },
+  {
+    "id": "grant-2013-08-media-art-production-grant",
+    "type": "grant",
+    "hidden": false,
+    "date": "2013-08",
+    "title": "Media Art Production Grant",
+    "funder": "Canada Council for the Arts"
+  },
+  {
+    "id": "grant-2010-05-disney-memorial-pausch-fellowship",
+    "type": "grant",
+    "hidden": false,
+    "date": "2010-05",
+    "title": "Disney Memorial Pausch Fellowship",
+    "funder": "Carnegie Mellon University, Pittsburgh, PA"
+  },
+  {
+    "id": "publication-2026-digital-reset-critical-and-creative-interventions-to-rewire-sense-making",
+    "type": "publication",
+    "hidden": false,
+    "date": "2026",
+    "title": "Digital Reset: Critical and Creative Interventions to Rewire Sense-Making",
+    "authors": [
+      "Ganaele Langlois",
+      "Rory Sharp",
+      "Craig Fahner",
+      "Alexandra Juhasz",
+      "Ioana Jucan",
+      "Roopa Vasudevan"
+    ],
+    "source": "*Media Theory* 10 (1): 125–48",
+    "doi": "10.70064/mt.v10i1.1370"
+  },
+  {
+    "id": "publication-2026-enter-the-ring-artistic-interventions-in-facial-recognition-and-domestic-surveillance",
+    "type": "publication",
+    "hidden": false,
+    "date": "2026",
+    "title": "Enter the Ring: Artistic Interventions in Facial Recognition and Domestic Surveillance",
+    "authors": [
+      "Craig Fahner",
+      "Evan Light",
+      "Quinn MacNeil"
+    ],
+    "source": "*Surveillance & Society* 24 (3): 255–65",
+    "doi": "10.24908/ss.v24i3.19156"
+  },
+  {
+    "id": "publication-2026-image-affect-developing-an-anti-sentiment-analysis-tool",
+    "type": "publication",
+    "hidden": false,
+    "date": "2026",
+    "title": "Image-Affect: Developing an Anti-Sentiment Analysis Tool",
+    "authors": [
+      "Craig Fahner",
+      "Ganaele Langlois",
+      "Rory Sharp"
+    ],
+    "source": "*Computational Culture* (forthcoming)"
+  },
+  {
+    "id": "publication-2026-generative-games-as-situated-representations-of-algorithmic-power",
+    "type": "publication",
+    "hidden": false,
+    "date": "2026",
+    "title": "Generative Games as Situated Representations of Algorithmic Power",
+    "authors": [
+      "Craig Fahner"
+    ],
+    "source": "*International Journal of Games and Narrative* 1 (forthcoming)"
+  },
+  {
+    "id": "publication-2024-eigengrau-reimagining-videoconferencing-as-a-slow-platform",
+    "type": "publication",
+    "hidden": false,
+    "date": "2024",
+    "title": "Eigengrau: Reimagining Videoconferencing as a ‘Slow Platform’",
+    "authors": [
+      "Craig Fahner"
+    ],
+    "source": "In *“You’re Muted”: Performance, Precarity, and the Logic of Zoom*, ed. Mark Nunes and Cassandra Ozog, 1st ed. Bloomsbury Publishing Plc",
+    "doi": "10.5040/9798765108260"
+  },
+  {
+    "id": "publication-2023-what-hath-we-rung-facing-amazon-s-ring-of-surveillance",
+    "type": "publication",
+    "hidden": false,
+    "date": "2023",
+    "title": "‘What Hath We Rung?’: Facing Amazon’s Ring of Surveillance",
+    "authors": [
+      "Evan Light",
+      "Craig Fahner",
+      "Ellouise McGeachie",
+      "Quinn MacNeil"
+    ],
+    "source": "Report prepared for the Office of the Privacy Commissioner of Canada",
+    "url": "https://ring.glendon.yorku.ca/report2.pdf"
+  },
+  {
+    "id": "publication-2019-deep-solutions-artistic-interventions-in-platform-capitalism",
+    "type": "publication",
+    "hidden": false,
+    "date": "2019",
+    "title": "Deep Solutions: Artistic Interventions in Platform Capitalism",
+    "authors": [
+      "Craig Fahner",
+      "Matthew Waddell"
+    ],
+    "source": "*Proceedings of the Seventh Conference on Computation, Communication, Aesthetics & X*, Milan, Italy",
+    "url": "https://2019.xcoax.org/pdf/xCoAx2019-Fahner.pdf"
+  },
+  {
+    "id": "software-2026-p5-plottercontrol",
+    "type": "software",
+    "hidden": false,
+    "date": "2026",
+    "title": "P5.plotterControl",
+    "authors": [
+      "Craig Fahner"
+    ],
+    "language": "JavaScript",
+    "url": "https://github.com/craigfahner/p5.plotterControl"
+  },
+  {
+    "id": "software-2026-image-affect-interface",
+    "type": "software",
+    "hidden": false,
+    "date": "2026",
+    "title": "Image-Affect Interface",
+    "authors": [
+      "Digital Democracies Institute, Simon Fraser University",
+      "Matt Canute",
+      "Craig Fahner",
+      "Anthony Burton",
+      "Mel Racho"
+    ],
+    "version": "1.0.0",
+    "language": "JavaScript",
+    "url": "https://github.com/Digital-Democracies-Institute/image-and-affect-interface"
+  },
+  {
+    "id": "presentation-2026-10-03-p5-plotter-control-a-real-time-pen-plotter-control-library-for-p5-js",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2026-10-03",
+    "title": "p5 Plotter Control: A Real-Time Pen Plotter Control Library for p5.js",
+    "role": "Presentation",
+    "venue": "Processing Community Day, NYU ITP",
+    "city": "Brooklyn",
+    "region": "NY",
+    "country": "United States",
+    "note": "hosted by the Processing Foundation",
+    "url": "https://www.pcd2026.nyc/#about"
+  },
+  {
+    "id": "presentation-2026-10-wild-lots-reimagining-urban-space-through-participatory-installation",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2026-10",
+    "title": "Wild Lots: Reimagining Urban Space through Participatory Installation",
+    "role": "Presentation",
+    "venue": "Mozilla Festival",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "id": "presentation-2026-10-fruit-a-fruit-recognition-system",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2026-10",
+    "title": "FRuiT: A Fruit Recognition System",
+    "role": "Conference presentation",
+    "venue": "Society for the Social Studies of Science 2026 Conference",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2026-10-wild-lots-reimagining-vacant-urban-space-through-design-interventions",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2026-10",
+    "title": "Wild Lots: Reimagining Vacant Urban Space through Design Interventions",
+    "role": "Conference presentation",
+    "venue": "Society for the Social Studies of Science 2026 Conference",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2026-06-enterface-encountering-facial-recognition-surveillance-via-interactive-installation",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2026-06",
+    "title": "Enterface: Encountering Facial Recognition Surveillance via Interactive Installation",
+    "role": "Conference presentation",
+    "venue": "Surveillance Studies Network Conference 2026",
+    "city": "Lille",
+    "country": "France"
+  },
+  {
+    "id": "presentation-2026-06-facial-recognition-tactile-visibility-and-the-governance-of-risk",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2026-06",
+    "title": "Facial Recognition, Tactile Visibility and the Governance of Risk",
+    "role": "Conference presentation",
+    "venue": "Data Justice Conference 2026",
+    "city": "Cardiff",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "presentation-2025-10-enterface-encountering-facial-recognition-technology",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2025-10",
+    "title": "Enterface: Encountering Facial Recognition Technology",
+    "role": "Presentation and demo",
+    "venue": "Digital Expo: Bridging the AI Divide, North York Public Library",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2025-08-engineering-bias-in-facial-recognition",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2025-08",
+    "title": "Engineering Bias in Facial Recognition",
+    "role": "Conference presentation",
+    "venue": "HOPE_16 Conference, St. John’s University",
+    "city": "Queens",
+    "region": "NY",
+    "country": "United States"
+  },
+  {
+    "id": "presentation-2025-06-enter-the-ring-facing-amazon-s-ring-of-surveillance",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2025-06",
+    "title": "Enter the Ring: Facing Amazon’s Ring of Surveillance",
+    "role": "Conference presentation",
+    "venue": "Union for Democratic Communications 2025 Conference, University of Washington",
+    "city": "Tacoma",
+    "region": "WA",
+    "country": "United States"
+  },
+  {
+    "id": "presentation-2025-05-concevoir-les-technologies-de-reconnaissance-faciale-de-maniere-alternative-du-point-de-vue-des-communs",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2025-05",
+    "title": "Concevoir les technologies de reconnaissance faciale de manière alternative du point de vue des communs",
+    "role": "Conference presentation",
+    "venue": "Les Communs Colloque International, Université du Québec à Montréal",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2025-03-generative-games-as-situated-representations-of-algorithmic-power",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2025-03",
+    "title": "Generative Games as Situated Representations of Algorithmic Power",
+    "role": "Conference presentation",
+    "venue": "2025 International Conference on Games and Narrative, University of Waterloo",
+    "city": "Waterloo",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2024-11-data-fluencies-sentiment-affect-and-algorithmic-recommendation",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2024-11",
+    "title": "Data Fluencies: Sentiment, Affect, and Algorithmic Recommendation",
+    "role": "Conference presentation",
+    "venue": "AI for Humanity and Society Conference",
+    "city": "Gothenburg",
+    "country": "Sweden"
+  },
+  {
+    "id": "presentation-2024-05-enter-the-ring-facing-amazon-s-ring-of-surveillance",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2024-05",
+    "title": "Enter the Ring: Facing Amazon’s Ring of Surveillance",
+    "role": "Conference presenter",
+    "venue": "Surveillance Studies Network Conference",
+    "city": "Ljubljana",
+    "country": "Slovenia"
+  },
+  {
+    "id": "presentation-2024-05-book-panel-you-re-muted-performance-precarity-and-the-logic-of-zoom",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2024-05",
+    "title": "Book Panel: “You’re Muted”: Performance, Precarity, and the Logic of Zoom",
+    "role": "Conference presenter",
+    "venue": "Cultural Studies Association 2024 Conference",
+    "city": "Chicago",
+    "region": "IL",
+    "country": "United States"
+  },
+  {
+    "id": "presentation-2023-11-counter-hegemonic-technocultures",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2023-11",
+    "title": "Counter-hegemonic Technocultures",
+    "role": "Conference panel chair",
+    "venue": "Society for the Social Studies of Science 2023 Conference",
+    "city": "Honolulu",
+    "region": "HI",
+    "country": "United States"
+  },
+  {
+    "id": "presentation-2023-10-image-analysis-workshop",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2023-10",
+    "title": "Image Analysis Workshop",
+    "role": "Workshop presenter",
+    "venue": "Association of Internet Researchers 2023 Conference",
+    "city": "Philadelphia",
+    "region": "PA",
+    "country": "United States"
+  },
+  {
+    "id": "presentation-2023-05-de-stabilizing-diffusions",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2023-05",
+    "title": "(de)Stabilizing Diffusions",
+    "role": "Panelist",
+    "venue": "Concordia University",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2023-03-annual-meeting",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2023-03",
+    "title": "Annual Meeting",
+    "role": "Conference presenter",
+    "venue": "International Network of Civil Liberties Organizations",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2022-10-reimagining-platforms-symposium",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2022-10",
+    "title": "Reimagining Platforms Symposium",
+    "role": "Conference presenter",
+    "venue": "University of Edinburgh",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "presentation-2022-09-future-bodies-symposium",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2022-09",
+    "title": "Future Bodies Symposium",
+    "role": "Conference presenter",
+    "venue": "New Media Caucus, Virginia Tech"
+  },
+  {
+    "id": "presentation-2021-06-research-creation-methods-in-communications-perspectives-from-the-field",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2021-06",
+    "title": "Research-creation Methods in Communications: Perspectives from the Field",
+    "role": "Panel chair",
+    "venue": "Canadian Communication Association Conference",
+    "city": "Edmonton",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2021-03-institute-for-research-on-digital-literacies",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2021-03",
+    "title": "Institute for Research on Digital Literacies",
+    "role": "Keynote presenter",
+    "venue": "York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2021-02-artist-centered-platforms-workshop",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2021-02",
+    "title": "Artist-Centered Platforms Workshop",
+    "role": "Workshop presenter",
+    "venue": "College Art Association Conference (online)"
+  },
+  {
+    "id": "presentation-2021-01-learning-to-teach-creative-technologies-remotely-a-virtual-unsymposium",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2021-01",
+    "title": "Learning to Teach Creative Technologies Remotely: A Virtual UnSymposium",
+    "role": "Conference presenter",
+    "venue": "New York University"
+  },
+  {
+    "id": "presentation-2020-11-mediating-the-crisis-platformisation-in-the-face-of-covid-19-and-beyond",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2020-11",
+    "title": "Mediating the Crisis: Platformisation in the Face of COVID-19 and Beyond",
+    "role": "Conference presenter",
+    "venue": "Goldsmiths University",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "presentation-2020-09-our-networks-conference",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2020-09",
+    "title": "Our Networks Conference",
+    "role": "Conference presenter",
+    "venue": "Online"
+  },
+  {
+    "id": "presentation-2020-07-artist-run-centres-and-collectives-of-ontario-summit",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2020-07",
+    "title": "Artist Run Centres & Collectives of Ontario Summit",
+    "role": "Conference presenter",
+    "venue": "Online"
+  },
+  {
+    "id": "presentation-2019-07-7th-conference-on-computation-communication-aesthetics-and-x",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2019-07",
+    "title": "7th Conference on Computation, Communication, Aesthetics & X",
+    "role": "Presenter",
+    "city": "Milan",
+    "country": "Italy"
+  },
+  {
+    "id": "presentation-2019-02-intersections-cross-sections-conference",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2019-02",
+    "title": "Intersections/Cross-sections Conference",
+    "role": "Conference panelist",
+    "venue": "York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2018-12-future-communications-conference",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2018-12",
+    "title": "Future Communications Conference",
+    "role": "Conference panelist",
+    "venue": "York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2015-02-particle-and-wave-festival-true-weight-of-sound-panel",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2015-02",
+    "title": "Particle and Wave Festival: True Weight of Sound Panel",
+    "role": "Conference panelist",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "presentation-2013-02-sasa-art-history-conference",
+    "type": "presentation",
+    "hidden": false,
+    "date": "2013-02",
+    "title": "SASA Art History Conference",
+    "role": "Conference panelist",
+    "venue": "Concordia University",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada"
+  },
+  {
+    "id": "residency-2022-09-data-fluencies-project-co-investigator-pi-wendy-chun",
+    "type": "residency",
+    "hidden": false,
+    "date": "2022-09",
+    "end_date": "2025-06",
+    "title": "Data Fluencies Project Co-investigator (PI Wendy Chun)",
+    "venue": "Digital Democracies Institute, Simon Fraser University",
+    "city": "Vancouver",
+    "region": "BC",
+    "country": "Canada"
+  },
+  {
+    "id": "residency-2022-09-deconstructing-performing-the-amazon-ring-security-apparatus-project-researcher-pi-evan-light",
+    "type": "residency",
+    "hidden": false,
+    "date": "2022-09",
+    "end_date": "2023-05",
+    "title": "Deconstructing/Performing the Amazon Ring Security Apparatus Project Researcher (PI Evan Light)",
+    "venue": "York University",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "residency-2016-07-alberta-biennial-sessions-program-resident",
+    "type": "residency",
+    "hidden": false,
+    "date": "2016-07",
+    "title": "Alberta Biennial Sessions Program Resident",
+    "venue": "The Banff Centre",
+    "city": "Banff",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "residency-2014-03-banff-artist-in-residence-program-resident",
+    "type": "residency",
+    "hidden": false,
+    "date": "2014-03",
+    "title": "Banff Artist in Residence Program Resident",
+    "venue": "The Banff Centre",
+    "city": "Banff",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2023-10-digital-reset-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2023-10",
+    "title": "Digital Reset Workshop",
+    "venue": "New York University",
+    "city": "New York",
+    "region": "NY",
+    "country": "United States"
+  },
+  {
+    "id": "talk-2023-09-idm-x-onassis-onx-speaker-series",
+    "type": "talk",
+    "hidden": false,
+    "date": "2023-09",
+    "title": "IDM x Onassis ONX Speaker Series",
+    "venue": "New York University",
+    "city": "New York",
+    "region": "NY",
+    "country": "United States"
+  },
+  {
+    "id": "talk-2019-03-speculative-science-fiction-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2019-03",
+    "title": "Speculative Science Fiction Workshop",
+    "venue": "Esker Foundation",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2019-03-crash-course-in-contemporary-art-lecture",
+    "type": "talk",
+    "hidden": false,
+    "date": "2019-03",
+    "title": "Crash Course in Contemporary Art (Lecture)",
+    "venue": "Esker Foundation",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2018-08-projection-mapping-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2018-08",
+    "title": "Projection Mapping Workshop",
+    "venue": "EMMEDIA",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2017-11-crash-course-in-contemporary-art-guest-lecturer",
+    "type": "talk",
+    "hidden": false,
+    "date": "2017-11",
+    "title": "Crash Course in Contemporary Art (Guest Lecturer)",
+    "venue": "Esker Foundation",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2017-08-projection-mapping-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2017-08",
+    "title": "Projection Mapping Workshop",
+    "venue": "EMMEDIA",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2016-07-projection-mapping-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2016-07",
+    "title": "Projection Mapping Workshop",
+    "venue": "EMMEDIA",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2015-11-visiting-artist-lecture-art-design-now",
+    "type": "talk",
+    "hidden": false,
+    "date": "2015-11",
+    "title": "Visiting Artist Lecture, Art + Design Now",
+    "venue": "Alberta University of the Arts"
+  },
+  {
+    "id": "talk-2012-10-biosensing-and-music-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2012-10",
+    "title": "“Biosensing and Music” Workshop",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2012-04-personal-energy-harvesting-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2012-04",
+    "title": "“Personal Energy Harvesting” Workshop",
+    "venue": "Eastern Bloc",
+    "city": "Montreal",
+    "region": "QC",
+    "country": "Canada"
+  },
+  {
+    "id": "talk-2009-10-actuate-everything-workshop",
+    "type": "talk",
+    "hidden": false,
+    "date": "2009-10",
+    "title": "“Actuate Everything” Workshop",
+    "venue": "University of Calgary",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2026-02-external-assessor",
+    "type": "service",
+    "hidden": false,
+    "date": "2026-02",
+    "title": "External Assessor",
+    "venue": "Social Sciences and Humanities Research Council",
+    "city": "Ottawa",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2019-09-co-director",
+    "type": "service",
+    "hidden": false,
+    "date": "2019-09",
+    "end_date": "2021-11",
+    "title": "Co-director",
+    "venue": "SORCE Collective, York & Toronto Metropolitan Universities",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2020-05-virtual-grounds-residency-project-mentor",
+    "type": "service",
+    "hidden": false,
+    "date": "2020-05",
+    "end_date": "2020-10",
+    "title": "Virtual Grounds Residency Project Mentor",
+    "venue": "Trinity Square Video and Data Justice Lab",
+    "city": "Toronto",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2018-12-peer-assessment-jurist-digital-and-new-media-arts-grants",
+    "type": "service",
+    "hidden": false,
+    "date": "2018-12",
+    "title": "Peer Assessment Jurist, Digital and New Media Arts Grants",
+    "venue": "Canada Council for the Arts",
+    "city": "Ottawa",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2018-05-jurist-for-operating-grants",
+    "type": "service",
+    "hidden": false,
+    "date": "2018-05",
+    "title": "Jurist for Operating Grants",
+    "venue": "Calgary Arts Development",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2014-11-board-member",
+    "type": "service",
+    "hidden": false,
+    "date": "2014-11",
+    "end_date": "2016-05",
+    "title": "Board Member",
+    "venue": "EMMEDIA",
+    "city": "Calgary",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2014-06-peer-assessment-jurist-media-arts-section-grants",
+    "type": "service",
+    "hidden": false,
+    "date": "2014-06",
+    "title": "Peer Assessment Jurist, Media Arts Section Grants",
+    "venue": "Canada Council for the Arts",
+    "city": "Ottawa",
+    "region": "ON",
+    "country": "Canada"
+  },
+  {
+    "id": "service-2014-02-tex-t-ech-workshop-facilitator",
+    "type": "service",
+    "hidden": false,
+    "date": "2014-02",
+    "title": "TEX(T)ECH Workshop Facilitator",
+    "venue": "The Banff Centre",
+    "city": "Banff",
+    "region": "AB",
+    "country": "Canada"
+  },
+  {
+    "id": "internal_service-2026-data-analytics-and-visualization-faculty-working-group",
+    "type": "internal_service",
+    "hidden": false,
+    "date": "2026",
+    "end_date": "present",
+    "role": "Member",
+    "title": "Data Analytics and Visualization faculty working group",
+    "institution": "Pratt Institute"
+  },
+  {
+    "id": "internal_service-2026-school-of-information-peer-review-committee",
+    "type": "internal_service",
+    "hidden": false,
+    "date": "2026",
+    "end_date": "present",
+    "role": "Member",
+    "title": "School of Information Peer Review Committee",
+    "institution": "Pratt Institute"
+  },
+  {
+    "id": "internal_service-2026-school-of-information-faculty-council",
+    "type": "internal_service",
+    "hidden": false,
+    "date": "2026",
+    "end_date": "present",
+    "role": "Member",
+    "title": "School of Information Faculty Council",
+    "institution": "Pratt Institute"
+  },
+  {
+    "id": "internal_service-2026-space-and-technology-committee",
+    "type": "internal_service",
+    "hidden": false,
+    "date": "2026",
+    "end_date": "present",
+    "role": "Member",
+    "title": "Space and Technology Committee",
+    "institution": "Pratt Institute"
+  },
+  {
+    "id": "internal_service-2025-idm-and-onassis-onx-visiting-speaker-series",
+    "type": "internal_service",
+    "hidden": false,
+    "date": "2025",
+    "end_date": "2026",
+    "role": "Co-organizer",
+    "title": "IDM and Onassis ONX Visiting Speaker Series",
+    "institution": "New York University",
+    "url": "https://idmnyu.github.io/ONX2026/"
+  },
+  {
+    "id": "review-2021-10-08-scholarly-mention-in-technologies-of-the-new-real-viral-contagion-and-death-of-the-social",
+    "type": "review",
+    "hidden": false,
+    "date": "2021-10-08",
+    "title": "Scholarly mention in Technologies of the New Real: Viral Contagion and Death of the Social",
+    "source": "Arthur Kroker and Marilouise Kroker"
+  },
+  {
+    "id": "review-2018-10-23-amplification-review",
+    "type": "review",
+    "hidden": false,
+    "date": "2018-10-23",
+    "title": "“Amplification” (review)",
+    "source": "Canadian Art"
+  },
+  {
+    "id": "review-2018-08-02-wreck-city-residency-explores-how-we-live-with-interactive-exhibits-throughout-the-city",
+    "type": "review",
+    "hidden": false,
+    "date": "2018-08-02",
+    "title": "“Wreck City Residency Explores ‘How We Live’ with Interactive Exhibits throughout the City”",
+    "source": "Calgary Herald"
+  },
+  {
+    "id": "review-2017-08-30-which-shape-with-everyday-items-stuck-on-it-are-you-really",
+    "type": "review",
+    "hidden": false,
+    "date": "2017-08-30",
+    "title": "“Which Shape With Everyday Items Stuck On It Are You Really?”",
+    "source": "Luma Quarterly"
+  },
+  {
+    "id": "review-2017-06-27-an-ambitious-and-messy-homage-to-life-alberta-s-biennial-of-contemporary-art",
+    "type": "review",
+    "hidden": false,
+    "date": "2017-06-27",
+    "title": "“An Ambitious & Messy Homage to Life: Alberta’s Biennial of Contemporary Art”",
+    "source": "The Wanderer (web)"
+  },
+  {
+    "id": "review-2017-06-15-art-gallery-of-alberta-s-2017-biennial-refuses-to-speak-for-us-all-in-the-very-best-way",
+    "type": "review",
+    "hidden": false,
+    "date": "2017-06-15",
+    "title": "“Art Gallery of Alberta’s 2017 Biennial Refuses to Speak for Us All, in the Very Best Way”",
+    "source": "Edmonton Journal"
+  },
+  {
+    "id": "review-2015-07-21-craig-fahner-and-steve-gurysh-at-8-11",
+    "type": "review",
+    "hidden": false,
+    "date": "2015-07-21",
+    "title": "“Craig Fahner & Steve Gurysh at 8-11”",
+    "source": "Akimbo (web)"
+  },
+  {
+    "id": "review-2014-12-04-turangalila-is-fatal-love-that-fulfills-writes-giller-winner-sean-michaels-mascot-of-early-electronic-instruments",
+    "type": "review",
+    "hidden": false,
+    "date": "2014-12-04",
+    "title": "“Turangalila is Fatal Love that Fulfills, Writes Giller Winner Sean Michaels, Mascot of Early Electronic Instruments”",
+    "source": "National Post (national)"
+  },
+  {
+    "id": "review-2014-11-27-calgary-philharmonic-teams-up-with-acad-for-display-of-sound-and-colour",
+    "type": "review",
+    "hidden": false,
+    "date": "2014-11-27",
+    "title": "“Calgary Philharmonic Teams Up with ACAD for Display of Sound and Colour”",
+    "source": "The Globe and Mail (national)"
+  },
+  {
+    "id": "review-2014-11-27-digital-art-and-mid-20th-century-composition",
+    "type": "review",
+    "hidden": false,
+    "date": "2014-11-27",
+    "title": "“Digital Art and Mid-20th-Century Composition”",
+    "source": "Fast Forward Weekly (Calgary, AB)"
+  },
+  {
+    "id": "review-2014-11-19-philharmonic-celebrates-with-a-touch-of-paris",
+    "type": "review",
+    "hidden": false,
+    "date": "2014-11-19",
+    "title": "“Philharmonic Celebrates with a Touch of Paris”",
+    "source": "Calgary Herald"
+  },
+  {
+    "id": "review-2014-sweet-nothing-interview",
+    "type": "review",
+    "hidden": false,
+    "date": "2014",
+    "title": "“Sweet Nothing” (interview)",
+    "source": "BLOCK Magazine"
+  },
+  {
+    "id": "review-2010-medias-sociaux-issue-26",
+    "type": "review",
+    "hidden": false,
+    "date": "2010",
+    "title": "“Médias Sociaux” (issue 26)",
+    "source": "Urbania Magazine"
+  },
+  {
+    "id": "review-2009-12-06-interview-for-spark-programme",
+    "type": "review",
+    "hidden": false,
+    "date": "2009-12-06",
+    "title": "Interview for Spark Programme",
+    "source": "CBC Radio 1 (national)"
+  },
+  {
+    "id": "review-2016-01-25-25-alberta-artists-to-rep-province-s-creative-scene-in-2017-alberta-biennial-selection-announcement",
+    "type": "review",
+    "hidden": false,
+    "date": "2016-01-25",
+    "title": "“25 Alberta Artists to Rep Province’s Creative Scene in 2017 Alberta Biennial” (selection announcement)",
+    "source": "Canadian Art",
+    "url": "https://canadianart.ca/news/25-alberta-artists-to-rep-provinces-creative-scene-in-2017-alberta-biennial/"
+  },
+  {
+    "id": "review-2023-09-11-new-faculty-fall-2023-faculty-profile-describes-eigengrau",
+    "type": "review",
+    "hidden": true,
+    "date": "2023-09-11",
+    "title": "“New Faculty – Fall 2023”",
+    "source": "NYU Tandon School of Engineering",
+    "url": "https://engineering.nyu.edu/news/new-faculty-fall-2023"
+  },
+  {
+    "id": "skill-areas-of-expertise",
+    "type": "skill",
+    "hidden": false,
+    "label": "Areas of expertise",
+    "details": "Interactive media art, performance, sound art, screen-based media, virtual reality, audio production, game-based art, immersive 3D environments, net-art, electronics and physical computing, media theory, art theory, infrastructure studies, critical algorithm studies, the political economy of the internet, surveillance studies, science and technology studies, platform studies, machine learning, data justice, independent and experimental music"
+  },
+  {
+    "id": "skill-hardware-tech-skills",
+    "type": "skill",
+    "hidden": false,
+    "label": "Hardware / tech skills",
+    "details": "Multitrack audio recording, live audio/video, video production, studio lighting, in-camera video and film techniques, circuit design and fabrication, woodworking and metalworking, image editing, risography"
+  },
+  {
+    "id": "skill-media-production",
+    "type": "skill",
+    "hidden": false,
+    "label": "Media production",
+    "details": "Adobe Creative Suite, Final Cut Pro, Logic Pro, Ableton Live, Pro Tools, Audacity, Blender 3D"
+  },
+  {
+    "id": "skill-other",
+    "type": "skill",
+    "hidden": false,
+    "label": "Other",
+    "details": "Strong collaborative skills, organizational and leadership experience, equity, diversity and justice conscious practice"
+  },
+  {
+    "id": "skill-programming-languages",
+    "type": "skill",
+    "hidden": false,
+    "label": "Programming languages",
+    "details": "C-sharp, Python, Processing, Arduino, Max, JavaScript, HTML and CSS, Unity3D, P5.js, ML5.js, RunwayML, TouchDesigner, TensorFlow, node.js"
+  },
+  {
+    "id": "skill-training-courses-completed",
+    "type": "skill",
+    "hidden": false,
+    "label": "Training courses completed",
+    "details": "WHMIS 1988 Training (AUArts), AUArts Copyright and Fair Use Training, AUArts Freedom of Information and Protection of Privacy Training, IT Risk and Cybersecurity Training (AUArts), Occupational Health and Safety Awareness Training (AUArts), Personal Protective Equipment Training (AUArts), Workplace Hazards Training (AUArts), Unconscious Bias and Equity Training (Calgary Arts Development), Accommodating Accommodation Training (Toronto Metropolitan University), Fostering Communities of Learners in Large Lectures Workshop (Toronto Metropolitan University)"
+  }
+]

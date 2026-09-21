@@ -104,7 +104,7 @@ sections:
     layout: citation
     template: "{title|link}. {place}. [{when}.]"
 
-  - heading: Selected Juries, Research and Service Activities
+  - heading: Selected Juries and Service Activities
     types: [service]
     layout: citation
     template: "{title|link}. {place}. [{when}.]"

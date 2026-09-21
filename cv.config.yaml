@@ -88,7 +88,7 @@ sections:
   - heading: Open Source Software Development
     types: [software]
     layout: citation
-    template: "{authors|list}. *{title|link}*[ (Version {version})] \\[{language}\\]."
+    template: "{authors|list}. *{title|link}*[ (Version {version})]."
 
   - heading: Conference Presentations
     types: [presentation]

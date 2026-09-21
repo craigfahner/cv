@@ -119,7 +119,7 @@ Type-specific keys:
 | `exhibition` | `work`, `title`, `medium`, `collaborators[]`, `event`, `curators[]`, `created`, location |
 | `grant` | `title`, `funder` |
 | `publication` | `title`, `authors[]`, `source`, `doi` |
-| `software` | `title`, `authors[]`, `version`, `language` |
+| `software` | `title`, `authors[]`, `version` |
 | `presentation` | `title`, `role`, location, `note` |
 | `residency`, `talk`, `service` | `title`, location |
 | `internal_service` | `role`, `title`, `institution` |

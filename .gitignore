@@ -11,3 +11,6 @@ dist/
 # Logs and local environment
 npm-debug.log*
 .env
+
+# note files not to be distributed in repo
+missing-dates-and-urls.md

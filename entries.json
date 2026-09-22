@@ -2114,7 +2114,8 @@
     "hidden": false,
     "date": "2021-10-08",
     "title": "Scholarly mention in Technologies of the New Real: Viral Contagion and Death of the Social",
-    "source": "Arthur Kroker and Marilouise Kroker"
+    "source": "Arthur Kroker and Marilouise Kroker",
+    "url": "https://lists.artdesign.unsw.edu.au/pipermail/empyre/2020-May/011157.html"
   },
   {
     "id": "review-2018-10-23-amplification-review",
@@ -2122,7 +2123,8 @@
     "hidden": false,
     "date": "2018-10-23",
     "title": "“Amplification” (review)",
-    "source": "Canadian Art"
+    "source": "Amber Berson; Canadian Art",
+    "url": "https://canadianart.ca/reviews/amplification/"
   },
   {
     "id": "review-2018-08-02-wreck-city-residency-explores-how-we-live-with-interactive-exhibits-throughout-the-city",
@@ -2130,7 +2132,8 @@
     "hidden": false,
     "date": "2018-08-02",
     "title": "“Wreck City Residency Explores ‘How We Live’ with Interactive Exhibits throughout the City”",
-    "source": "Calgary Herald"
+    "source": "Eric Volmers; Calgary Herald",
+    "url": "https://calgaryherald.com/entertainment/local-arts/wreck-city-residency-explores-how-we-live-with-interactive-exhibits-throughout-the-city"
   },
   {
     "id": "review-2017-08-30-which-shape-with-everyday-items-stuck-on-it-are-you-really",
@@ -2138,7 +2141,8 @@
     "hidden": false,
     "date": "2017-08-30",
     "title": "“Which Shape With Everyday Items Stuck On It Are You Really?”",
-    "source": "Luma Quarterly"
+    "source": "Adam Waldron-Blain; Luma Quarterly, Issue 009 (\"The 10th Alberta Biennial\")",
+    "url": "https://web.archive.org/web/20180511185902/http://lumaquarterly.com:80/issues/volume-three/new-issue-page/the-10th-alberta-biennial/"
   },
   {
     "id": "review-2017-06-27-an-ambitious-and-messy-homage-to-life-alberta-s-biennial-of-contemporary-art",
@@ -2146,7 +2150,8 @@
     "hidden": false,
     "date": "2017-06-27",
     "title": "“An Ambitious & Messy Homage to Life: Alberta’s Biennial of Contemporary Art”",
-    "source": "The Wanderer (web)"
+    "source": "Maja Staka; The Wanderer (web)",
+    "url": "https://web.archive.org/web/20170703163855/http://thewandereronline.com/an-ambitious-messy-homage-to-life-albertas-biennial-of-contemporary-art/"
   },
   {
     "id": "review-2017-06-15-art-gallery-of-alberta-s-2017-biennial-refuses-to-speak-for-us-all-in-the-very-best-way",
@@ -2154,7 +2159,8 @@
     "hidden": false,
     "date": "2017-06-15",
     "title": "“Art Gallery of Alberta’s 2017 Biennial Refuses to Speak for Us All, in the Very Best Way”",
-    "source": "Edmonton Journal"
+    "source": "Fish Griwkowsky; Edmonton Journal",
+    "url": "https://edmontonjournal.com/entertainment/local-arts/art-gallery-of-albertas-2017-biennial-refuses-to-speak-for-us-all-in-the-very-best-way"
   },
   {
     "id": "review-2015-07-21-craig-fahner-and-steve-gurysh-at-8-11",
@@ -2170,7 +2176,8 @@
     "hidden": false,
     "date": "2014-12-04",
     "title": "“Turangalila is Fatal Love that Fulfills, Writes Giller Winner Sean Michaels, Mascot of Early Electronic Instruments”",
-    "source": "National Post (national)"
+    "source": "Sean Michaels; National Post (national)",
+    "url": "https://nationalpost.com/entertainment/local-arts/turangalila-is-fatal-love-that-fulfills-writes-giller-winner-sean-michaels-mascot-of-early-electronic-instruments"
   },
   {
     "id": "review-2014-11-27-calgary-philharmonic-teams-up-with-acad-for-display-of-sound-and-colour",
@@ -2178,7 +2185,8 @@
     "hidden": false,
     "date": "2014-11-27",
     "title": "“Calgary Philharmonic Teams Up with ACAD for Display of Sound and Colour”",
-    "source": "The Globe and Mail (national)"
+    "source": "Marsha Lederman; The Globe and Mail (national)",
+    "url": "https://www.theglobeandmail.com/news/alberta/calgary-philharmonic-teams-up-with-acad-for-display-of-sound-and-colour/article21823936/"
   },
   {
     "id": "review-2014-11-27-digital-art-and-mid-20th-century-composition",
@@ -2194,7 +2202,8 @@
     "hidden": false,
     "date": "2014-11-19",
     "title": "“Philharmonic Celebrates with a Touch of Paris”",
-    "source": "Calgary Herald"
+    "source": "Stephen Hunt; Calgary Herald",
+    "url": "https://calgaryherald.com/entertainment/local-arts/philharmonic-celebrates-with-a-touch-of-paris"
   },
   {
     "id": "review-2014-sweet-nothing-interview",
@@ -2202,15 +2211,17 @@
     "hidden": false,
     "date": "2014",
     "title": "“Sweet Nothing” (interview)",
-    "source": "BLOCK Magazine"
+    "source": "Interview by Mark Slutsky, with Keith Murnighan and Jeff Warren; BLOCK Magazine (Allied Properties REIT)",
+    "url": "https://issuu.com/alliedreit/docs/winterissue_bl_131216/40"
   },
   {
     "id": "review-2010-medias-sociaux-issue-26",
     "type": "review",
     "hidden": false,
-    "date": "2010",
+    "date": "2010-04",
     "title": "“Médias Sociaux” (issue 26)",
-    "source": "Urbania Magazine"
+    "source": "Urbania Magazine",
+    "url": "https://urbania.ca/collection/special-medias-sociaux"
   },
   {
     "id": "review-2009-12-06-interview-for-spark-programme",
@@ -2218,7 +2229,8 @@
     "hidden": false,
     "date": "2009-12-06",
     "title": "Interview for Spark Programme",
-    "source": "CBC Radio 1 (national)"
+    "source": "CBC Radio 1 (national)",
+    "url": "https://web.archive.org/web/20091208115558/http://www.cbc.ca/spark/2009/12/spark-94-december-6-8-2009/"
   },
   {
     "id": "review-2016-01-25-25-alberta-artists-to-rep-province-s-creative-scene-in-2017-alberta-biennial-selection-announcement",
@@ -2237,6 +2249,60 @@
     "title": "“New Faculty – Fall 2023”",
     "source": "NYU Tandon School of Engineering",
     "url": "https://engineering.nyu.edu/news/new-faculty-fall-2023"
+  },
+  {
+    "id": "review-2011-biosignal-driven-art-beyond-biofeedback",
+    "type": "review",
+    "hidden": false,
+    "date": "2011",
+    "title": "Scholarly mention in “Biosignal-driven Art: Beyond Biofeedback”",
+    "source": "Miguel Ortiz, Niall Coghlan, Javier Jaimovich, and Ben Knapp; Ideas Sónicas/Sonic Ideas, pp. 43–52",
+    "url": "https://eprints.dkit.ie/id/eprint/276/1/2011Ortiz-Perez_et_al-Ideas_Sonicas.pdf"
+  },
+  {
+    "id": "review-2015-10-22-od-regionalne-izlozbe-do-medunarodnog-projekta",
+    "type": "review",
+    "hidden": false,
+    "date": "2015-10-22",
+    "title": "Mentioned in “Od Regionalne Izložbe Do Međunarodnog Projekta”",
+    "source": "Saša Šimpraga; Novosti (Portal Novosti)",
+    "url": "https://www.portalnovosti.com/olga-majcen-linn-od-regionalne-izlozbe-do-medjunarodnog-projekta/"
+  },
+  {
+    "id": "review-2018-12-21-wreck-city-documentary",
+    "type": "review",
+    "hidden": false,
+    "date": "2018-12-21",
+    "title": "“Wreck City – Documentary” (2018 artist residency)",
+    "source": "Polina Teif; YouTube",
+    "url": "https://www.youtube.com/watch?v=nAkUzKbZZHU"
+  },
+  {
+    "id": "review-2025-machines-sensibles-inventions-queer",
+    "type": "review",
+    "hidden": false,
+    "date": "2025",
+    "title": "Scholarly mention in “Machines sensibles, inventions queer: une approche hacktiviste et écoféministe de l’art numérique”",
+    "source": "Marion Schneider; master’s thesis, Université du Québec à Montréal",
+    "url": "https://archipel.uqam.ca/18822/1/M19056.pdf"
+  },
+  {
+    "id": "review-2016-high-fives-to-the-avant-garde",
+    "type": "review",
+    "hidden": false,
+    "date": "2016",
+    "title": "“High Fives to the Avant-Garde”",
+    "source": "Kurtis Lesick; in Design, User Experience, and Usability: Design Thinking and Methods, Springer",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-40409-7_8"
+  },
+  {
+    "id": "review-2012-the-local-energy-indicator",
+    "type": "review",
+    "hidden": false,
+    "date": "2012",
+    "title": "“The Local Energy Indicator: Designing for Wind and Solar Energy Systems in the Home”",
+    "source": "James Pierce and Eric Paulos; Proceedings of the Designing Interactive Systems Conference (DIS ’12), ACM",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/2317956.2318050"
   },
   {
     "id": "skill-areas-of-expertise",

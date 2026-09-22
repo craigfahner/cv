@@ -120,6 +120,16 @@ sections:
     layout: citation
     template: "{title|link}. {source}[, {when}]."
 
+  - heading: Selected Discography
+    types: [discography]
+    layout: citation
+    template: "{artist}, *{title|link}*. {label}. ({role})"
+
+  - heading: Selected Music Press
+    types: [music_press]
+    layout: citation
+    template: "{title|link}. {source}[, {when}]."
+
   - heading: Skills and Expertise
     types: [skill]
     layout: definition

@@ -2189,6 +2189,15 @@
     "url": "https://www.theglobeandmail.com/news/alberta/calgary-philharmonic-teams-up-with-acad-for-display-of-sound-and-colour/article21823936/"
   },
   {
+    "id": "review-2014-11-29-cpo-climbs-inside-composer-olivier-messiaens-mind-with-epic-turangalila",
+    "type": "review",
+    "hidden": false,
+    "date": "2014-11-29",
+    "title": "“CPO Climbs Inside Composer Olivier Messiaen’s Mind with Epic Turangalila”",
+    "source": "Stephen Hunt; Calgary Herald",
+    "url": "https://calgaryherald.com/entertainment/local-arts/cpo-climbs-inside-composer-olivier-messiaens-mind-with-epic-turangalila"
+  },
+  {
     "id": "review-2014-11-27-digital-art-and-mid-20th-century-composition",
     "type": "review",
     "hidden": false,
@@ -2303,6 +2312,421 @@
     "title": "“The Local Energy Indicator: Designing for Wind and Solar Energy Systems in the Home”",
     "source": "James Pierce and Eric Paulos; Proceedings of the Designing Interactive Systems Conference (DIS ’12), ACM",
     "url": "https://dl.acm.org/doi/pdf/10.1145/2317956.2318050"
+  },
+  {
+    "id": "review-2012-10-import-export-de-craig-fahner-a-eastern-bloc",
+    "type": "review",
+    "hidden": false,
+    "date": "2012-10",
+    "title": "“Import / Export de Craig Fahner à Eastern Bloc”",
+    "source": "Qui fait Quoi (qfq.com)",
+    "url": "https://qfq.com/spip.php?article33003=&debut_dossier_10DerniersArticles=2928"
+  },
+  {
+    "id": "discography-2026-fuses-sawdust-in-the-transmission",
+    "type": "discography",
+    "hidden": false,
+    "date": "2026-06-26",
+    "artist": "Fuses",
+    "title": "Sawdust in the Transmission",
+    "label": "Having Fun",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "discography-2026-motorists-never-sing-alone",
+    "type": "discography",
+    "hidden": false,
+    "date": "2026-03-06",
+    "artist": "Motorists",
+    "title": "Never Sing Alone",
+    "label": "We Are Time",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "discography-2023-fortunato-durutti-marinetti-eight-waves-in-search-of-an-ocean",
+    "type": "discography",
+    "hidden": false,
+    "date": "2023-11-03",
+    "artist": "Fortunato Durutti Marinetti",
+    "title": "Eight Waves in Search of an Ocean",
+    "label": "Quindi Records / Soft Abuse",
+    "role": "Performer, synthesizers"
+  },
+  {
+    "id": "discography-2024-motorists-touched-by-the-stuff",
+    "type": "discography",
+    "hidden": false,
+    "date": "2024-05-24",
+    "artist": "Motorists",
+    "title": "Touched By The Stuff",
+    "label": "We Are Time / Bobo Integral",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "discography-2021-motorists-surrounded",
+    "type": "discography",
+    "hidden": false,
+    "date": "2021-09-03",
+    "artist": "Motorists",
+    "title": "Surrounded",
+    "label": "We Are Time / Debt Offensive / Bobo Integral",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "discography-2018-leather-jacuzzi-the-whole-hog",
+    "type": "discography",
+    "hidden": false,
+    "date": "2018-01-29",
+    "artist": "Leather Jacuzzi",
+    "title": "The Whole Hog",
+    "label": "Danger Records",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "discography-2018-feel-alright-in-bad-faith",
+    "type": "discography",
+    "hidden": false,
+    "date": "2018-05-18",
+    "artist": "Feel Alright",
+    "title": "In Bad Faith",
+    "label": "Pleasence Records",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "discography-2011-feel-alright-hahahahahahaha",
+    "type": "discography",
+    "hidden": false,
+    "date": "2011",
+    "artist": "Feel Alright",
+    "title": "hahahahahahaha",
+    "label": "Planet of the Tapes",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "discography-2022-miszczyk-thyrsis-of-etna",
+    "type": "discography",
+    "hidden": false,
+    "date": "2022-07-15",
+    "artist": "Miszczyk",
+    "title": "Thyrsis of Etna",
+    "label": "We Are Time",
+    "role": "Performer and composer, featured on “Lunar Days”"
+  },
+  {
+    "id": "discography-2020-motorists-from-the-wreckage",
+    "type": "discography",
+    "hidden": false,
+    "date": "2020-03-07",
+    "artist": "Motorists",
+    "title": "From the Wreckage",
+    "label": "Planet of the Tapes",
+    "role": "Composer and performer"
+  },
+  {
+    "id": "music_press-2021-toronto-s-motorists-announce-debut-album-surrounded",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-07-09",
+    "title": "Toronto's Motorists Announce Debut Album ‘Surrounded’",
+    "source": "Exclaim!",
+    "url": "https://exclaim.ca/music/article/torontos_motorists_announce_debut_album_surrounded"
+  },
+  {
+    "id": "music_press-2021-motorists-are-jangle-pop-philosophers-on-surrounded",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-03",
+    "title": "Motorists Are Jangle Pop Philosophers on ‘Surrounded’",
+    "source": "Exclaim!",
+    "url": "https://exclaim.ca/music/article/motorists_toronto_surrounded_album_review"
+  },
+  {
+    "id": "music_press-2024-motorists-announce-sophomore-album-touched-by-the-stuff",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2024-03-21",
+    "title": "Motorists Announce Sophomore Album ‘Touched by the Stuff’",
+    "source": "Exclaim!",
+    "url": "https://exclaim.ca/music/article/motorists-announce-sophomore-album-touched-by-the-stuff"
+  },
+  {
+    "id": "music_press-2026-motorists-plot-canadian-tour-in-support-of-upcoming-album-never-sing-alone",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-02-06",
+    "title": "Motorists Plot Canadian Tour in Support of Upcoming Album ‘Never Sing Alone’",
+    "source": "Exclaim!",
+    "url": "https://exclaim.ca/music/article/motorists-plot-canadian-tour-in-support-of-upcoming-album-never-sing-alone"
+  },
+  {
+    "id": "music_press-2021-motorists-surrounded-tracks-and-reviews",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-03",
+    "title": "Motorists: *Surrounded* – Tracks & Reviews",
+    "source": "AllMusic",
+    "url": "https://www.allmusic.com/album/surrounded-mw0003571936"
+  },
+  {
+    "id": "music_press-2021-surrounded-by-motorists-reviews-and-tracks",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021",
+    "title": "Surrounded by Motorists — Reviews and Tracks",
+    "source": "Metacritic",
+    "url": "https://www.metacritic.com/music/surrounded/motorists"
+  },
+  {
+    "id": "music_press-2021-motorists-surrounded-album-review",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-10",
+    "title": "Motorists: *Surrounded* – Album Review",
+    "source": "Louder Than War",
+    "url": "https://louderthanwar.com/motorists-surrounded-album-review/"
+  },
+  {
+    "id": "music_press-2021-difficult-fun-september-2021-s-best-punk",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-28",
+    "title": "Difficult Fun: September 2021's Best Punk",
+    "source": "SPIN",
+    "url": "https://www.spinmagazine.com/2021/09/difficult-fun-september-2021-best-punk/"
+  },
+  {
+    "id": "music_press-2021-29-new-songs-out-today",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-07-09",
+    "title": "29 New Songs Out Today",
+    "source": "Brooklyn Vegan",
+    "url": "https://www.brooklynvegan.com/29-new-songs-out-today-18/"
+  },
+  {
+    "id": "music_press-2021-26-new-songs-out-today",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-08-06",
+    "title": "26 New Songs Out Today",
+    "source": "Brooklyn Vegan",
+    "url": "https://www.brooklynvegan.com/26-new-songs-out-today-25/"
+  },
+  {
+    "id": "music_press-2021-indie-basement-93-the-week-in-classic-indie-college-rock-and-more",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-03",
+    "title": "Indie Basement 93: The Week in Classic Indie, College Rock, and More",
+    "source": "Brooklyn Vegan",
+    "url": "https://www.brooklynvegan.com/indie-basement-93-the-week-in-classic-indie-college-rock-and-more/"
+  },
+  {
+    "id": "music_press-2021-sloan-s-jay-ferguson-tells-us-about-his-favorite-songs-of-2021",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021",
+    "title": "Sloan's Jay Ferguson Tells Us About His Favorite Songs of 2021",
+    "source": "Brooklyn Vegan",
+    "url": "https://www.brooklynvegan.com/sloans-jay-ferguson-tells-us-about-his-favorite-songs-of-2021/"
+  },
+  {
+    "id": "music_press-2021-motorists-surrounded-album-review-2",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-03",
+    "title": "Motorists — Surrounded (Album Review)",
+    "source": "The Line of Best Fit",
+    "url": "https://www.thelineofbestfit.com/reviews/albums/motorists-surrounded-album-review"
+  },
+  {
+    "id": "music_press-2021-essential-releases-september-10-2021",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-10",
+    "title": "Essential Releases, September 10, 2021",
+    "source": "Bandcamp Daily",
+    "url": "https://daily.bandcamp.com/seven-essential-releases/essential-releases-september-10-2021"
+  },
+  {
+    "id": "music_press-2024-essential-releases-may-24-2024",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2024-05-24",
+    "title": "Essential Releases, May 24, 2024",
+    "source": "Bandcamp Daily",
+    "url": "https://daily.bandcamp.com/essential-releases/essential-releases-may-24-2024"
+  },
+  {
+    "id": "music_press-2021-motorists-and-mikey-young-are-in-it-for-the-love-of-the-game",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2021-09-03",
+    "title": "Motorists and Mikey Young Are In It for the Love of the Game",
+    "source": "Talkhouse",
+    "url": "https://www.talkhouse.com/motorists-and-mikey-young-are-in-it-for-the-love-of-the-game/"
+  },
+  {
+    "id": "music_press-2026-fuses-preview-sawdust-in-the-transmission-with-new-single-aniline",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-05",
+    "title": "Fuses Preview ‘Sawdust in the Transmission’ With New Single ‘Aniline’",
+    "source": "It's Psychedelic Baby! Magazine",
+    "url": "https://www.psychedelicbabymag.com/2026/05/fuses.html"
+  },
+  {
+    "id": "music_press-2026-fuses-share-debut-album-sawdust-in-the-transmission-and-new-track-drive-it-into-the-ground",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-06",
+    "title": "Fuses Share Debut Album ‘Sawdust in the Transmission’ and New Track ‘Drive It Into The Ground’",
+    "source": "It's Psychedelic Baby! Magazine",
+    "url": "https://www.psychedelicbabymag.com/2026/06/fuses-share-debut-album-sawdust-in-the-transmission-and-new-track-drive-it-into-the-ground.html"
+  },
+  {
+    "id": "music_press-2026-new-music-reviews-7-6",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-07-06",
+    "title": "New Music: Reviews 7/6",
+    "source": "KEXP",
+    "url": "https://www.kexp.org/read/2026/7/6/new-music-reviews-76/"
+  },
+  {
+    "id": "music_press-2026-paul-silver-column",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026",
+    "title": "Paul Silver Column",
+    "source": "Jersey Beat",
+    "url": "https://www.jerseybeat.com/paulsilver.html"
+  },
+  {
+    "id": "music_press-2026-fuses-drive-it-into-the-ground",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-06",
+    "title": "Fuses – ‘Drive It Into the Ground’",
+    "source": "AltSounds",
+    "url": "https://altsounds.com/fuses-drive-it-into-the-ground/"
+  },
+  {
+    "id": "music_press-2026-ckua-traffic-jams-interview",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026",
+    "title": "CKUA Traffic Jams Interview",
+    "source": "CKUA Radio Network",
+    "url": "https://www.instagram.com/p/DZ-qqZKDjx9/"
+  },
+  {
+    "id": "music_press-2012-feel-alright-has-bros-in-different-area-codes",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2012-05-14",
+    "title": "Feel Alright Has Bros In Different Area Codes",
+    "source": "Vice",
+    "url": "https://www.vice.com/en/article/no-canada-feel-alright-craig-fahner-winter-goth/"
+  },
+  {
+    "id": "music_press-2012-feel-alright-announce-mammoth-cave-7-inch-canadian-tour",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2012-05-09",
+    "title": "Feel Alright Announce Mammoth Cave 7-inch, Canadian Tour",
+    "source": "Exclaim!",
+    "url": "https://exclaim.ca/music/article/feel_alright_announce_mammoth_cave_7-inch_canadian_tour"
+  },
+  {
+    "id": "music_press-2011-new-canadiana-feel-alright-hahahahahahaha",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2011-06",
+    "title": "New Canadiana: Feel Alright – hahahahahahaha",
+    "source": "Weird Canada",
+    "url": "https://weirdcanada.com/posts/new-canadiana-feel-alright-hahahahahahaha.html"
+  },
+  {
+    "id": "music_press-2011-feel-alright-hahahahahahaha",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2011-05-16",
+    "title": "Feel Alright: “Hahahahahahaha.”",
+    "source": "No Fear Of Pop",
+    "url": "https://web.archive.org/web/20111209101807/http://nofearofpop.net/2011/05/feel-alright-hahahahahahaha/"
+  },
+  {
+    "id": "music_press-2018-five-questions-with-craig-fahner-of-feel-alright",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2018-05-09",
+    "title": "Five Questions With… Craig Fahner of Feel Alright",
+    "source": "Billboard Canada",
+    "url": "https://www.fyimusicnews.ca/articles/2018/05/09/five-questions-…-craig-fahner-feel-alright"
+  },
+  {
+    "id": "music_press-2018-video-premiere-cool-water-by-feel-alright",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2018-06-06",
+    "title": "Video Premiere: “Cool Water” by Feel Alright",
+    "source": "The Big Takeover",
+    "url": "https://bigtakeover.com/news/video-premiere-cool-water-by-feel-alright"
+  },
+  {
+    "id": "music_press-2018-song-premiere-feel-alright-cool-water",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2018-03-29",
+    "title": "Song Premiere: Feel Alright – “Cool Water”",
+    "source": "New Noise Magazine",
+    "url": "https://newnoisemagazine.com/song-premiere-feel-alright-cool-water/"
+  },
+  {
+    "id": "music_press-2020-motorists-tough-age-feel-alright-to-release-from-the-wreckage-ep",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2020-03",
+    "title": "Motorists (Tough Age, Feel Alright) to Release “From The Wreckage” EP",
+    "source": "Punknews.org",
+    "url": "https://www.punknews.org/article/72084/motorists-tough-age-feel-alright-to-release-from-the-wreckage-ep"
+  },
+  {
+    "id": "music_press-2017-leather-jacuzzi-gloved-hand-holding-caviar",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2017-06-05",
+    "title": "Leather Jacuzzi – “Gloved Hand Holding Caviar”",
+    "source": "Exclaim!",
+    "url": "https://exclaim.ca/music/article/leather_jacuzzi-gloved_hand_holding_caviar"
+  },
+  {
+    "id": "music_press-2017-leather-jacuzzi-turn-up-the-fast-and-messy-punk-rock-jets",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2017-12-01",
+    "title": "Leather Jacuzzi Turn Up the Fast and Messy Punk Rock Jets",
+    "source": "Vice",
+    "url": "https://www.vice.com/en/article/leather-jacuzzi-turn-up-the-fast-and-messy-punk-rock-jets/"
+  },
+  {
+    "id": "music_press-2016-new-blood-tv-crime-nosebleed-tumbas-leather-jacuzzi-nachthexen-faze-pandemix-and-bleeders",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2016-09-01",
+    "title": "New Blood: TV Crime, Nosebleed, Tumbas, Leather Jacuzzi, Nachthexen, Faze, Pandemix, and Bleeders",
+    "source": "Maximum Rocknroll",
+    "url": "https://www.maximumrocknroll.com/new_blood/new-blood-tv-crime-nosebleed-tumbas-leather-jacuzzi-nachthexen-faze-pandemix-and-bleeders/"
+  },
+  {
+    "id": "music_press-2017-cowtown-capers-dis-does-sled-island-2017",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2017-07-12",
+    "title": "Cowtown Capers: DiS Does Sled Island 2017",
+    "source": "Drowned in Sound",
+    "url": "https://drownedinsound.com/in_depth/4151168-cowtown-capers--dis-does-sled-island-2017"
   },
   {
     "id": "skill-areas-of-expertise",

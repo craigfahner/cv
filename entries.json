@@ -2801,6 +2801,33 @@
     "url": "https://www.ravensingstheblues.com/motorists-2/"
   },
   {
+    "id": "music_press-2026-fuses-garden-of-ashes",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-04-15",
+    "title": "Fuses – “Garden of Ashes”",
+    "source": "Andy; Raven Sings The Blues",
+    "url": "https://ravensingstheblues.com/fuses-garden-of-ashes/"
+  },
+  {
+    "id": "music_press-2026-fuses-anilene",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-05-19",
+    "title": "Fuses – “Anilene”",
+    "source": "Andy; Raven Sings The Blues",
+    "url": "https://ravensingstheblues.com/fuses-anilene/"
+  },
+  {
+    "id": "music_press-2026-fuses",
+    "type": "music_press",
+    "hidden": false,
+    "date": "2026-06-16",
+    "title": "Fuses",
+    "source": "Andy; Raven Sings The Blues",
+    "url": "https://ravensingstheblues.com/fuses/"
+  },
+  {
     "id": "skill-areas-of-expertise",
     "type": "skill",
     "hidden": false,

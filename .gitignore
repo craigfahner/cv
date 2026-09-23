@@ -14,6 +14,7 @@ npm-debug.log*
 
 # note files not to be distributed in repo
 missing-dates-and-urls.md
-missing-review-dates-and-urls
+missing-review-dates-and-urls.md
 press_clippings.md
 craig_fahner_art_press_clippings.md
+missing-press-captures.md

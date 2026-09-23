@@ -257,6 +257,7 @@ mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, config.output?.html ?? 'index.html'), page());
 cpSync(resolve(root, 'src/cv.css'), join(outDir, 'cv.css'));
 cpSync(resolve(root, 'fonts'), join(outDir, 'fonts'), { recursive: true });
+if (existsSync(resolve(root, 'press-clippings'))) cpSync(resolve(root, 'press-clippings'), join(outDir, 'press-clippings'), { recursive: true });
 
 const visible = entries.filter((e) => !e.hidden).length;
 console.log(`Built ${config.output?.html ?? 'index.html'}: ${visible} visible of ${entries.length} entries`);

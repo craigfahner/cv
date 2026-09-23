@@ -1999,7 +1999,9 @@
     "venue": "Trinity Square Video and Data Justice Lab",
     "city": "Toronto",
     "region": "ON",
-    "country": "Canada"
+    "country": "Canada",
+    "url": "https://virtual-grounds-project.webflow.io/",
+    "pdf": "press-clippings/service-2020-05-virtual-grounds-residency-project-mentor.pdf"
   },
   {
     "id": "service-2018-12-peer-assessment-jurist-digital-and-new-media-arts-grants",
@@ -2010,7 +2012,9 @@
     "venue": "Canada Council for the Arts",
     "city": "Ottawa",
     "region": "ON",
-    "country": "Canada"
+    "country": "Canada",
+    "url": "https://canadacouncil.ca/about/public-accountability/proactive-disclosure/peer-assessors?yr=2018&qtr=4#PeerAssessorListing",
+    "pdf": "press-clippings/service-2018-12-peer-assessment-jurist-digital-and-new-media-arts-grants.pdf"
   },
   {
     "id": "service-2018-05-jurist-for-operating-grants",
@@ -2021,7 +2025,9 @@
     "venue": "Calgary Arts Development",
     "city": "Calgary",
     "region": "AB",
-    "country": "Canada"
+    "country": "Canada",
+    "url": "https://calgaryartsdevelopment.com/news-information/reports-research/accountability-report-2018/",
+    "pdf": "press-clippings/service-2018-05-jurist-for-operating-grants.pdf"
   },
   {
     "id": "service-2014-11-board-member",
@@ -2044,7 +2050,9 @@
     "venue": "Canada Council for the Arts",
     "city": "Ottawa",
     "region": "ON",
-    "country": "Canada"
+    "country": "Canada",
+    "url": "https://canadacouncil.ca/-/media/Files/CCA/Proactive-Disclosure/Peer-assessors/peer-assessor-listing-20142015.pdf",
+    "pdf": "press-clippings/service-2014-06-peer-assessment-jurist-media-arts-section-grants.pdf"
   },
   {
     "id": "service-2014-02-tex-t-ech-workshop-facilitator",
